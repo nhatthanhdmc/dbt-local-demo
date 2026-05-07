@@ -1,0 +1,64 @@
+version: 2
+
+sources:
+  - name: dlpt
+    description: "Hệ thống Data Lake nguồn TMO."
+    schema: main
+    tables:
+      - name: vw_d_card_info_tmo
+      - name: vw_f_fin_transaction_tmo
+
+models:
+  - name: stg_card_info
+    description: "Dữ liệu chuẩn hóa từ danh mục thẻ."
+    columns:
+      - name: card_id_hktmo
+        description: "Định danh duy nhất của một thẻ."
+        tests:
+          - unique
+          - not_null
+      - name: client_number_hktmo
+        description: "Định danh duy nhất của khách hàng (client id)."
+        tests:
+          - not_null
+      - name: lvl_1
+        description: "Phân cấp sản phẩm thẻ (level 1). Định danh bản chất Credit/Debit."
+        tests:
+          - accepted_values:
+              values: ['Credit', 'Debit'] # Đảm bảo dữ liệu không bị sai lệch loại hình tài chính
+      - name: from_date
+        description: "Ngày hiệu lực của bản ghi dữ liệu thẻ."
+        tests:
+          - not_null
+
+  - name: stg_fin_transaction
+    description: "Dữ liệu chuẩn hóa từ giao dịch tài chính."
+    columns:
+      - name: doc_id
+        description: "Mã chứng từ giao dịch."
+        tests:
+          - unique
+          - not_null
+      - name: card_id_hktmo
+        description: "Định danh duy nhất của 1 thẻ thực hiện giao dịch."
+        tests:
+          - not_null
+          - relationships: # Kiểm tra tính toàn vẹn: Mọi thẻ có GD phải tồn tại trong bảng Card Info
+              to: ref('stg_card_info')
+              field: card_id_hktmo
+      - name: billing_amount
+        description: "Số tiền giao dịch (giá trị thanh toán)."
+        tests:
+          - not_null
+          # Giả định: Số tiền giao dịch phải lớn hơn 0 (tránh dữ liệu lỗi hoặc rác)
+          - dbt_utils.expression_is_true:
+              expression: ">= 0"
+      - name: txn_typ
+        description: "Loại giao dịch."
+        tests:
+          - accepted_values:
+              values: ['POS', 'ECOM', 'ATM', 'RETAIL'] # Giới hạn các giá trị hợp lệ theo nghiệp vụ
+      - name: posting_date
+        description: "Ngày giao dịch được ghi nhận vào hệ thống."
+        tests:
+          - not_null

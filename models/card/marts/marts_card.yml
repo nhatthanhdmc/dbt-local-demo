@@ -1,0 +1,71 @@
+version: 2
+
+models:
+  - name: dim_card
+    description: "Bảng Dimension thẻ với phân khúc hạng thẻ mới nhất."
+    columns:
+      - name: card_id_hktmo
+        description: "Định danh duy nhất của một thẻ."
+        tests:
+          - unique
+          - not_null
+      - name: client_number_hktmo
+        description: "Định danh duy nhất của khách hàng (client id)."
+        tests:
+          - not_null
+      - name: lvl_1
+        description: "Phân cấp sản phẩm thẻ (level 1)."
+        tests:
+          - accepted_values:
+              values: ['Credit', 'Debit']
+
+  - name: fact_card_monthly_summary
+    description: "Tổng hợp thẻ PSGD và giao dịch hàng tháng theo hạng thẻ."
+    tests:
+      # Unit test cấp bảng: Đảm bảo số lượng giao dịch luôn >= số lượng thẻ PSGD
+      - dbt_utils.expression_is_true:
+          expression: "sl_gd >= sl_the_psgd"
+    columns:
+      - name: posting_month
+        description: "Tháng post vào hệ thống (Ngày đầu tháng)."
+        tests:
+          - not_null
+      - name: sl_the_psgd
+        description: "Số lượng thẻ phát sinh giao dịch."
+        tests:
+          - dbt_utils.expression_is_true:
+              expression: ">= 0"
+      - name: tong_billing_amount
+        description: "Tổng giá trị giao dịch trong tháng."
+        tests:
+          - dbt_utils.expression_is_true:
+              expression: ">= 0"
+
+  - name: fact_card_merchant_monthly_summary
+    description: "Tổng hợp hành vi chi tiêu theo đối tác (Merchant) và hạng thẻ."
+    tests:
+      # Unit test cấp bảng: Số lượng thẻ PSGD không thể lớn hơn số lượng khách hàng PSGD (nếu 1 khách có nhiều thẻ)
+      # Hoặc đơn giản là sl_gd >= sl_the_psgd
+      - dbt_utils.expression_is_true:
+          expression: "sl_gd >= sl_the_psgd"
+    columns:
+      - name: merchant
+        description: "Tên đối tác bán hàng (Xanh SM, Shopee, Grab...)."
+        tests:
+          - not_null
+      - name: sl_kh_psgd
+        description: "Số lượng khách hàng phát sinh giao dịch (Unique CIF)."
+        tests:
+          - dbt_utils.expression_is_true:
+              expression: ">= 0"
+      - name: sl_the_psgd
+        description: "Số lượng thẻ phát sinh giao dịch (Unique Card ID)."
+        tests:
+          - dbt_utils.expression_is_true:
+              expression: ">= sl_kh_psgd" # Logic: 1 KH có thể có >= 1 thẻ
+      - name: giatri_giaodich
+        description: "Tổng giá trị giao dịch (Billing Amount)."
+        tests:
+          - not_null
+          - dbt_utils.expression_is_true:
+              expression: ">= 0"

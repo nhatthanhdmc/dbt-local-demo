@@ -1,0 +1,2001 @@
+card_id_hktmo,client_number_hktmo,lvl_1,lvl_2,lvl_3,lvl_4,from_date
+CARD_0001,CIF_1001,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-09-03
+CARD_0002,CIF_1002,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-03-20
+CARD_0003,CIF_1003,Credit,Credit Gold,Visa,Privilege Customer,2025-06-16
+CARD_0004,CIF_1004,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-10-08
+CARD_0005,CIF_1005,Debit,Debit Digi,Visa,UUTIEN Customer,2025-02-01
+CARD_0006,CIF_1006,Credit,Credit Gold,Visa,UUTIEN Customer,2025-09-16
+CARD_0007,CIF_1007,Debit,Debit Classic,Visa,Privilege Customer,2025-03-16
+CARD_0008,CIF_1008,Credit,Credit Signature Privilege,Visa,None,2025-08-22
+CARD_0009,CIF_1009,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-01-07
+CARD_0010,CIF_1010,Debit,Debit Digi,Visa,Privilege Customer,2025-07-16
+CARD_0011,CIF_1011,Debit,Debit Digi,Visa,UUTIEN Customer,2025-08-23
+CARD_0012,CIF_1012,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-08-16
+CARD_0013,CIF_1013,Debit,Debit Classic,Visa,UUTIEN Customer,2025-05-22
+CARD_0014,CIF_1014,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-09-21
+CARD_0015,CIF_1015,Debit,Debit Digi,Visa,UUTIEN Customer,2025-09-21
+CARD_0016,CIF_1016,Debit,Debit Classic,Visa,Privilege Customer,2025-05-21
+CARD_0017,CIF_1017,Credit,Credit Gold,Visa,UUTIEN Customer,2025-12-05
+CARD_0018,CIF_1018,Credit,Credit Signature Privilege,Visa,None,2025-10-28
+CARD_0019,CIF_1019,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-04-06
+CARD_0020,CIF_1020,Credit,Credit Gold,Visa,Privilege Customer,2025-07-20
+CARD_0021,CIF_1021,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-06-20
+CARD_0022,CIF_1022,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-10-09
+CARD_0023,CIF_1023,Credit,Credit Gold,Visa,None,2025-01-22
+CARD_0024,CIF_1024,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-01-16
+CARD_0025,CIF_1025,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-09-13
+CARD_0026,CIF_1026,Credit,Credit Signature Privilege,Visa,None,2025-06-04
+CARD_0027,CIF_1027,Debit,Debit Privilege Signature,Visa,None,2025-10-26
+CARD_0028,CIF_1028,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-03-16
+CARD_0029,CIF_1029,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-03-12
+CARD_0030,CIF_1030,Credit,Credit Gold,Visa,UUTIEN Customer,2025-07-13
+CARD_0031,CIF_1031,Credit,Credit Gold,Visa,None,2025-03-14
+CARD_0032,CIF_1032,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-02-18
+CARD_0033,CIF_1033,Credit,Credit Infinite,Visa,None,2025-04-30
+CARD_0034,CIF_1034,Credit,Credit Infinite,Visa,None,2025-05-20
+CARD_0035,CIF_1035,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-08-27
+CARD_0036,CIF_1036,Credit,Credit Gold,Visa,Privilege Customer,2025-06-18
+CARD_0037,CIF_1037,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-07-09
+CARD_0038,CIF_1038,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-04-10
+CARD_0039,CIF_1039,Debit,Debit Lotusmiles Virtual,Visa,None,2025-06-06
+CARD_0040,CIF_1040,Credit,Credit Gold,Visa,None,2025-11-08
+CARD_0041,CIF_1041,Credit,Credit Gold,Visa,None,2025-02-27
+CARD_0042,CIF_1042,Credit,Credit Gold,Visa,UUTIEN Customer,2025-09-26
+CARD_0043,CIF_1043,Credit,Credit Gold,Visa,None,2025-05-13
+CARD_0044,CIF_1044,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-12-23
+CARD_0045,CIF_1045,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-12-23
+CARD_0046,CIF_1046,Debit,Debit Classic,Visa,None,2025-09-12
+CARD_0047,CIF_1047,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-09-08
+CARD_0048,CIF_1048,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-10-09
+CARD_0049,CIF_1049,Debit,Debit Classic,Visa,UUTIEN Customer,2025-09-22
+CARD_0050,CIF_1050,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-01-28
+CARD_0051,CIF_1051,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-09-01
+CARD_0052,CIF_1052,Debit,Debit Digi,Visa,UUTIEN Customer,2025-07-26
+CARD_0053,CIF_1053,Credit,Credit Infinite,Visa,None,2025-03-13
+CARD_0054,CIF_1054,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-11-29
+CARD_0055,CIF_1055,Credit,Credit Platinum Cashback,Visa,None,2025-04-24
+CARD_0056,CIF_1056,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-04-14
+CARD_0057,CIF_1057,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-02-14
+CARD_0058,CIF_1058,Credit,Credit Signature Privilege,Visa,None,2025-11-08
+CARD_0059,CIF_1059,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-09-29
+CARD_0060,CIF_1060,Credit,Credit Gold,Visa,None,2025-10-27
+CARD_0061,CIF_1061,Credit,Credit Infinite,Visa,None,2025-02-23
+CARD_0062,CIF_1062,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-02-13
+CARD_0063,CIF_1063,Credit,Credit Gold,Visa,UUTIEN Customer,2025-09-13
+CARD_0064,CIF_1064,Debit,Debit Lotusmiles Virtual,Visa,None,2025-01-21
+CARD_0065,CIF_1065,Debit,Debit Privilege Signature,Visa,None,2025-09-15
+CARD_0066,CIF_1066,Credit,Credit Gold,Visa,None,2025-11-06
+CARD_0067,CIF_1067,Debit,Debit Classic,Visa,Privilege Customer,2025-06-04
+CARD_0068,CIF_1068,Credit,Credit Infinite,Visa,Privilege Customer,2025-08-30
+CARD_0069,CIF_1069,Credit,Credit Signature Privilege,Visa,None,2025-11-01
+CARD_0070,CIF_1070,Credit,Credit Gold,Visa,None,2025-07-26
+CARD_0071,CIF_1071,Credit,Credit Gold,Visa,None,2025-08-21
+CARD_0072,CIF_1072,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-09-02
+CARD_0073,CIF_1073,Credit,Credit Gold,Visa,UUTIEN Customer,2025-10-17
+CARD_0074,CIF_1074,Credit,Credit Signature Privilege,Visa,None,2025-12-07
+CARD_0075,CIF_1075,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-02-05
+CARD_0076,CIF_1076,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-06-20
+CARD_0077,CIF_1077,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-11-17
+CARD_0078,CIF_1078,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-03-07
+CARD_0079,CIF_1079,Debit,Debit Digi,Visa,None,2025-02-15
+CARD_0080,CIF_1080,Debit,Debit Lotusmiles Virtual,Visa,None,2025-07-26
+CARD_0081,CIF_1081,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-06-26
+CARD_0082,CIF_1082,Credit,Credit Infinite,Visa,None,2025-01-16
+CARD_0083,CIF_1083,Credit,Credit Gold,Visa,Privilege Customer,2025-02-19
+CARD_0084,CIF_1084,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-01-16
+CARD_0085,CIF_1085,Debit,Debit Classic,Visa,Privilege Customer,2025-05-11
+CARD_0086,CIF_1086,Credit,Credit Infinite,Visa,None,2025-01-04
+CARD_0087,CIF_1087,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-11-29
+CARD_0088,CIF_1088,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-03-25
+CARD_0089,CIF_1089,Credit,Credit Gold,Visa,UUTIEN Customer,2025-11-17
+CARD_0090,CIF_1090,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-01-12
+CARD_0091,CIF_1091,Credit,Credit Signature Privilege,Visa,None,2025-02-07
+CARD_0092,CIF_1092,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-08-22
+CARD_0093,CIF_1093,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-08-19
+CARD_0094,CIF_1094,Credit,Credit Gold,Visa,UUTIEN Customer,2025-12-06
+CARD_0095,CIF_1095,Credit,Credit Gold,Visa,None,2025-11-26
+CARD_0096,CIF_1096,Debit,Debit Privilege Signature,Visa,None,2025-08-06
+CARD_0097,CIF_1097,Debit,Debit Digi,Visa,Privilege Customer,2025-10-11
+CARD_0098,CIF_1098,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-06-13
+CARD_0099,CIF_1099,Debit,Debit Classic,Visa,None,2025-05-17
+CARD_0100,CIF_1100,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-10-08
+CARD_0101,CIF_1101,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-03-14
+CARD_0102,CIF_1102,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-11-22
+CARD_0103,CIF_1103,Credit,Credit Signature Privilege,Visa,None,2025-05-08
+CARD_0104,CIF_1104,Debit,Debit Privilege Signature,Visa,None,2025-08-27
+CARD_0105,CIF_1105,Debit,Debit Digi,Visa,UUTIEN Customer,2025-08-21
+CARD_0106,CIF_1106,Debit,Debit Digi,Visa,None,2025-01-10
+CARD_0107,CIF_1107,Credit,Credit Infinite,Visa,Privilege Customer,2025-03-23
+CARD_0108,CIF_1108,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-07-31
+CARD_0109,CIF_1109,Debit,Debit Digi,Visa,None,2025-11-03
+CARD_0110,CIF_1110,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-08-14
+CARD_0111,CIF_1111,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-07-12
+CARD_0112,CIF_1112,Debit,Debit Digi,Visa,None,2025-12-03
+CARD_0113,CIF_1113,Credit,Credit Platinum Cashback,Visa,None,2025-04-21
+CARD_0114,CIF_1114,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-04-19
+CARD_0115,CIF_1115,Credit,Credit Signature Privilege,Visa,None,2025-05-23
+CARD_0116,CIF_1116,Credit,Credit Infinite,Visa,Privilege Customer,2025-09-09
+CARD_0117,CIF_1117,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-10-19
+CARD_0118,CIF_1118,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-01-23
+CARD_0119,CIF_1119,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-08-06
+CARD_0120,CIF_1120,Credit,Credit Platinum Cashback,Visa,None,2025-06-19
+CARD_0121,CIF_1121,Credit,Credit Gold,Visa,Privilege Customer,2025-04-16
+CARD_0122,CIF_1122,Credit,Credit Signature Privilege,Visa,None,2025-06-04
+CARD_0123,CIF_1123,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-05-24
+CARD_0124,CIF_1124,Debit,Debit Digi,Visa,None,2025-10-21
+CARD_0125,CIF_1125,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-04-28
+CARD_0126,CIF_1126,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-05-03
+CARD_0127,CIF_1127,Credit,Credit Infinite,Visa,None,2025-09-29
+CARD_0128,CIF_1128,Debit,Debit Digi,Visa,None,2025-06-29
+CARD_0129,CIF_1129,Credit,Credit Gold,Visa,None,2025-09-22
+CARD_0130,CIF_1130,Debit,Debit Digi,Visa,None,2025-04-21
+CARD_0131,CIF_1131,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-12-30
+CARD_0132,CIF_1132,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-08-21
+CARD_0133,CIF_1133,Credit,Credit Gold,Visa,UUTIEN Customer,2025-11-09
+CARD_0134,CIF_1134,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-06-01
+CARD_0135,CIF_1135,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-03-20
+CARD_0136,CIF_1136,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-08-21
+CARD_0137,CIF_1137,Credit,Credit Platinum Cashback,Visa,None,2025-12-02
+CARD_0138,CIF_1138,Credit,Credit Gold,Visa,Privilege Customer,2025-04-11
+CARD_0139,CIF_1139,Debit,Debit Digi,Visa,UUTIEN Customer,2025-06-15
+CARD_0140,CIF_1140,Debit,Debit Classic,Visa,UUTIEN Customer,2025-12-19
+CARD_0141,CIF_1141,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-06-08
+CARD_0142,CIF_1142,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-01-25
+CARD_0143,CIF_1143,Credit,Credit Infinite,Visa,Privilege Customer,2025-06-22
+CARD_0144,CIF_1144,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-12-14
+CARD_0145,CIF_1145,Debit,Debit Digi,Visa,Privilege Customer,2025-07-23
+CARD_0146,CIF_1146,Debit,Debit Classic,Visa,UUTIEN Customer,2025-09-08
+CARD_0147,CIF_1147,Debit,Debit Classic,Visa,UUTIEN Customer,2025-08-02
+CARD_0148,CIF_1148,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-01-01
+CARD_0149,CIF_1149,Debit,Debit Digi,Visa,None,2025-07-13
+CARD_0150,CIF_1150,Debit,Debit Classic,Visa,None,2025-03-08
+CARD_0151,CIF_1151,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-02-14
+CARD_0152,CIF_1152,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-04-05
+CARD_0153,CIF_1153,Credit,Credit Gold,Visa,None,2025-08-07
+CARD_0154,CIF_1154,Debit,Debit Classic,Visa,None,2025-05-04
+CARD_0155,CIF_1155,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-07-30
+CARD_0156,CIF_1156,Credit,Credit Signature Privilege,Visa,None,2025-07-11
+CARD_0157,CIF_1157,Debit,Debit Lotusmiles Virtual,Visa,None,2025-04-30
+CARD_0158,CIF_1158,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-09-27
+CARD_0159,CIF_1159,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-05-02
+CARD_0160,CIF_1160,Debit,Debit Digi,Visa,UUTIEN Customer,2025-09-08
+CARD_0161,CIF_1161,Debit,Debit Digi,Visa,None,2025-12-15
+CARD_0162,CIF_1162,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-07-03
+CARD_0163,CIF_1163,Debit,Debit Digi,Visa,Privilege Customer,2025-11-01
+CARD_0164,CIF_1164,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-05-10
+CARD_0165,CIF_1165,Credit,Credit Platinum Cashback,Visa,None,2025-11-21
+CARD_0166,CIF_1166,Credit,Credit Gold,Visa,None,2025-01-31
+CARD_0167,CIF_1167,Credit,Credit Gold,Visa,None,2025-02-01
+CARD_0168,CIF_1168,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-04-22
+CARD_0169,CIF_1169,Credit,Credit Signature Privilege,Visa,None,2025-07-10
+CARD_0170,CIF_1170,Debit,Debit Privilege Signature,Visa,None,2025-06-19
+CARD_0171,CIF_1171,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-12-12
+CARD_0172,CIF_1172,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-12-06
+CARD_0173,CIF_1173,Credit,Credit Infinite,Visa,Privilege Customer,2025-07-30
+CARD_0174,CIF_1174,Debit,Debit Digi,Visa,None,2025-10-02
+CARD_0175,CIF_1175,Credit,Credit Gold,Visa,None,2025-09-23
+CARD_0176,CIF_1176,Credit,Credit Gold,Visa,UUTIEN Customer,2025-10-15
+CARD_0177,CIF_1177,Credit,Credit Gold,Visa,Privilege Customer,2025-09-19
+CARD_0178,CIF_1178,Credit,Credit Gold,Visa,UUTIEN Customer,2025-02-20
+CARD_0179,CIF_1179,Credit,Credit Gold,Visa,None,2025-06-06
+CARD_0180,CIF_1180,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-01-14
+CARD_0181,CIF_1181,Debit,Debit Digi,Visa,Privilege Customer,2025-04-14
+CARD_0182,CIF_1182,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-02-07
+CARD_0183,CIF_1183,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-11-18
+CARD_0184,CIF_1184,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-06-21
+CARD_0185,CIF_1185,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-07-04
+CARD_0186,CIF_1186,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-03-30
+CARD_0187,CIF_1187,Debit,Debit Lotusmiles Virtual,Visa,None,2025-12-20
+CARD_0188,CIF_1188,Credit,Credit Gold,Visa,UUTIEN Customer,2025-12-06
+CARD_0189,CIF_1189,Debit,Debit Digi,Visa,None,2025-05-15
+CARD_0190,CIF_1190,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-07-02
+CARD_0191,CIF_1191,Credit,Credit Gold,Visa,UUTIEN Customer,2025-08-06
+CARD_0192,CIF_1192,Debit,Debit Digi,Visa,Privilege Customer,2025-06-16
+CARD_0193,CIF_1193,Debit,Debit Classic,Visa,Privilege Customer,2025-01-27
+CARD_0194,CIF_1194,Credit,Credit Gold,Visa,Privilege Customer,2025-04-07
+CARD_0195,CIF_1195,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-03-24
+CARD_0196,CIF_1196,Credit,Credit Gold,Visa,None,2025-10-08
+CARD_0197,CIF_1197,Debit,Debit Digi,Visa,None,2025-03-15
+CARD_0198,CIF_1198,Credit,Credit Infinite,Visa,None,2025-10-01
+CARD_0199,CIF_1199,Debit,Debit Privilege Signature,Visa,None,2025-04-25
+CARD_0200,CIF_1200,Debit,Debit Classic,Visa,UUTIEN Customer,2025-11-27
+CARD_0201,CIF_1201,Credit,Credit Gold,Visa,None,2025-07-29
+CARD_0202,CIF_1202,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-03-08
+CARD_0203,CIF_1203,Debit,Debit Privilege Signature,Visa,None,2025-09-04
+CARD_0204,CIF_1204,Credit,Credit Infinite,Visa,Privilege Customer,2025-11-14
+CARD_0205,CIF_1205,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-02-12
+CARD_0206,CIF_1206,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-04-17
+CARD_0207,CIF_1207,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-10-21
+CARD_0208,CIF_1208,Credit,Credit Gold,Visa,None,2025-08-02
+CARD_0209,CIF_1209,Debit,Debit Classic,Visa,None,2025-01-02
+CARD_0210,CIF_1210,Credit,Credit Gold,Visa,None,2025-03-09
+CARD_0211,CIF_1211,Debit,Debit Classic,Visa,Privilege Customer,2025-06-17
+CARD_0212,CIF_1212,Debit,Debit Classic,Visa,None,2025-11-16
+CARD_0213,CIF_1213,Debit,Debit Digi,Visa,None,2025-06-06
+CARD_0214,CIF_1214,Credit,Credit Gold,Visa,Privilege Customer,2025-03-07
+CARD_0215,CIF_1215,Credit,Credit Gold,Visa,UUTIEN Customer,2025-07-01
+CARD_0216,CIF_1216,Debit,Debit Digi,Visa,UUTIEN Customer,2025-04-22
+CARD_0217,CIF_1217,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-08-18
+CARD_0218,CIF_1218,Debit,Debit Classic,Visa,Privilege Customer,2025-01-08
+CARD_0219,CIF_1219,Debit,Debit Classic,Visa,UUTIEN Customer,2025-02-16
+CARD_0220,CIF_1220,Debit,Debit Classic,Visa,Privilege Customer,2025-05-13
+CARD_0221,CIF_1221,Credit,Credit Gold,Visa,Privilege Customer,2025-06-22
+CARD_0222,CIF_1222,Debit,Debit Digi,Visa,Privilege Customer,2025-04-13
+CARD_0223,CIF_1223,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-10-19
+CARD_0224,CIF_1224,Credit,Credit Infinite,Visa,None,2025-01-25
+CARD_0225,CIF_1225,Debit,Debit Digi,Visa,Privilege Customer,2025-03-19
+CARD_0226,CIF_1226,Debit,Debit Digi,Visa,None,2025-10-16
+CARD_0227,CIF_1227,Credit,Credit Infinite,Visa,Privilege Customer,2025-04-09
+CARD_0228,CIF_1228,Debit,Debit Digi,Visa,None,2025-09-29
+CARD_0229,CIF_1229,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-03-03
+CARD_0230,CIF_1230,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-04-22
+CARD_0231,CIF_1231,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-11-07
+CARD_0232,CIF_1232,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-04-13
+CARD_0233,CIF_1233,Debit,Debit Digi,Visa,UUTIEN Customer,2025-12-13
+CARD_0234,CIF_1234,Credit,Credit Infinite,Visa,None,2025-09-04
+CARD_0235,CIF_1235,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-08-09
+CARD_0236,CIF_1236,Debit,Debit Lotusmiles Virtual,Visa,None,2025-02-02
+CARD_0237,CIF_1237,Debit,Debit Classic,Visa,Privilege Customer,2025-02-03
+CARD_0238,CIF_1238,Debit,Debit Classic,Visa,None,2025-07-10
+CARD_0239,CIF_1239,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-07-05
+CARD_0240,CIF_1240,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-12-14
+CARD_0241,CIF_1241,Debit,Debit Classic,Visa,Privilege Customer,2025-01-26
+CARD_0242,CIF_1242,Credit,Credit Gold,Visa,Privilege Customer,2025-02-12
+CARD_0243,CIF_1243,Credit,Credit Gold,Visa,None,2025-03-26
+CARD_0244,CIF_1244,Debit,Debit Privilege Signature,Visa,None,2025-11-06
+CARD_0245,CIF_1245,Credit,Credit Signature Privilege,Visa,None,2025-11-26
+CARD_0246,CIF_1246,Debit,Debit Digi,Visa,None,2025-01-19
+CARD_0247,CIF_1247,Credit,Credit Gold,Visa,None,2025-05-05
+CARD_0248,CIF_1248,Debit,Debit Privilege Signature,Visa,None,2025-08-12
+CARD_0249,CIF_1249,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-07-27
+CARD_0250,CIF_1250,Debit,Debit Digi,Visa,UUTIEN Customer,2025-02-06
+CARD_0251,CIF_1251,Debit,Debit Classic,Visa,None,2025-12-31
+CARD_0252,CIF_1252,Debit,Debit Digi,Visa,Privilege Customer,2025-07-03
+CARD_0253,CIF_1253,Credit,Credit Infinite,Visa,Privilege Customer,2025-06-15
+CARD_0254,CIF_1254,Credit,Credit Gold,Visa,UUTIEN Customer,2025-06-09
+CARD_0255,CIF_1255,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-09-18
+CARD_0256,CIF_1256,Credit,Credit Infinite,Visa,None,2025-07-22
+CARD_0257,CIF_1257,Credit,Credit Infinite,Visa,Privilege Customer,2025-10-26
+CARD_0258,CIF_1258,Debit,Debit Privilege Signature,Visa,None,2025-01-06
+CARD_0259,CIF_1259,Debit,Debit Classic,Visa,Privilege Customer,2025-08-12
+CARD_0260,CIF_1260,Debit,Debit Digi,Visa,None,2025-01-25
+CARD_0261,CIF_1261,Debit,Debit Classic,Visa,None,2025-10-02
+CARD_0262,CIF_1262,Debit,Debit Classic,Visa,Privilege Customer,2025-09-06
+CARD_0263,CIF_1263,Credit,Credit Infinite,Visa,Privilege Customer,2025-02-26
+CARD_0264,CIF_1264,Debit,Debit Classic,Visa,UUTIEN Customer,2025-03-17
+CARD_0265,CIF_1265,Debit,Debit Classic,Visa,None,2025-04-20
+CARD_0266,CIF_1266,Debit,Debit Lotusmiles Virtual,Visa,None,2025-09-04
+CARD_0267,CIF_1267,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-03-31
+CARD_0268,CIF_1268,Debit,Debit Digi,Visa,UUTIEN Customer,2025-01-20
+CARD_0269,CIF_1269,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-09-11
+CARD_0270,CIF_1270,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-09-09
+CARD_0271,CIF_1271,Debit,Debit Classic,Visa,UUTIEN Customer,2025-07-04
+CARD_0272,CIF_1272,Debit,Debit Classic,Visa,None,2025-09-19
+CARD_0273,CIF_1273,Debit,Debit Lotusmiles Virtual,Visa,None,2025-03-16
+CARD_0274,CIF_1274,Debit,Debit Digi,Visa,None,2025-12-11
+CARD_0275,CIF_1275,Debit,Debit Classic,Visa,UUTIEN Customer,2025-03-22
+CARD_0276,CIF_1276,Credit,Credit Gold,Visa,UUTIEN Customer,2025-02-10
+CARD_0277,CIF_1277,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-06-27
+CARD_0278,CIF_1278,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-01-20
+CARD_0279,CIF_1279,Credit,Credit Signature Privilege,Visa,None,2025-07-16
+CARD_0280,CIF_1280,Debit,Debit Digi,Visa,Privilege Customer,2025-04-16
+CARD_0281,CIF_1281,Debit,Debit Privilege Signature,Visa,None,2025-02-11
+CARD_0282,CIF_1282,Debit,Debit Classic,Visa,UUTIEN Customer,2025-09-30
+CARD_0283,CIF_1283,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-03-28
+CARD_0284,CIF_1284,Debit,Debit Classic,Visa,UUTIEN Customer,2025-05-28
+CARD_0285,CIF_1285,Debit,Debit Lotusmiles Virtual,Visa,None,2025-05-28
+CARD_0286,CIF_1286,Credit,Credit Platinum Cashback,Visa,None,2025-06-01
+CARD_0287,CIF_1287,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-12-25
+CARD_0288,CIF_1288,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-03-11
+CARD_0289,CIF_1289,Debit,Debit Classic,Visa,Privilege Customer,2025-03-15
+CARD_0290,CIF_1290,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-08-20
+CARD_0291,CIF_1291,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-06-08
+CARD_0292,CIF_1292,Credit,Credit Platinum Cashback,Visa,None,2025-04-02
+CARD_0293,CIF_1293,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-11-04
+CARD_0294,CIF_1294,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-10-30
+CARD_0295,CIF_1295,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-07-23
+CARD_0296,CIF_1296,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-01-28
+CARD_0297,CIF_1297,Credit,Credit Infinite,Visa,None,2025-01-11
+CARD_0298,CIF_1298,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-05-22
+CARD_0299,CIF_1299,Debit,Debit Lotusmiles Virtual,Visa,None,2025-01-18
+CARD_0300,CIF_1300,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-01-27
+CARD_0301,CIF_1301,Credit,Credit Platinum Cashback,Visa,None,2025-02-11
+CARD_0302,CIF_1302,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-02-25
+CARD_0303,CIF_1303,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-08-10
+CARD_0304,CIF_1304,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-11-25
+CARD_0305,CIF_1305,Debit,Debit Digi,Visa,None,2025-03-23
+CARD_0306,CIF_1306,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-05-16
+CARD_0307,CIF_1307,Debit,Debit Digi,Visa,Privilege Customer,2025-04-06
+CARD_0308,CIF_1308,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-07-27
+CARD_0309,CIF_1309,Credit,Credit Infinite,Visa,None,2025-05-16
+CARD_0310,CIF_1310,Credit,Credit Platinum Cashback,Visa,None,2025-11-12
+CARD_0311,CIF_1311,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-12-26
+CARD_0312,CIF_1312,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-08-04
+CARD_0313,CIF_1313,Credit,Credit Gold,Visa,Privilege Customer,2025-09-28
+CARD_0314,CIF_1314,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-10-01
+CARD_0315,CIF_1315,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-04-09
+CARD_0316,CIF_1316,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-02-09
+CARD_0317,CIF_1317,Debit,Debit Classic,Visa,UUTIEN Customer,2025-11-30
+CARD_0318,CIF_1318,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-01-29
+CARD_0319,CIF_1319,Debit,Debit Digi,Visa,Privilege Customer,2025-11-26
+CARD_0320,CIF_1320,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-11-16
+CARD_0321,CIF_1321,Credit,Credit Gold,Visa,Privilege Customer,2025-04-23
+CARD_0322,CIF_1322,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-04-30
+CARD_0323,CIF_1323,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-04-15
+CARD_0324,CIF_1324,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-10-08
+CARD_0325,CIF_1325,Credit,Credit Gold,Visa,Privilege Customer,2025-05-07
+CARD_0326,CIF_1326,Credit,Credit Platinum Cashback,Visa,None,2025-04-19
+CARD_0327,CIF_1327,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-11-17
+CARD_0328,CIF_1328,Credit,Credit Infinite,Visa,Privilege Customer,2025-05-15
+CARD_0329,CIF_1329,Debit,Debit Digi,Visa,None,2025-06-08
+CARD_0330,CIF_1330,Credit,Credit Gold,Visa,Privilege Customer,2025-07-16
+CARD_0331,CIF_1331,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-01-21
+CARD_0332,CIF_1332,Credit,Credit Gold,Visa,Privilege Customer,2025-05-01
+CARD_0333,CIF_1333,Credit,Credit Gold,Visa,Privilege Customer,2025-05-29
+CARD_0334,CIF_1334,Credit,Credit Signature Privilege,Visa,None,2025-05-23
+CARD_0335,CIF_1335,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-07-08
+CARD_0336,CIF_1336,Credit,Credit Gold,Visa,Privilege Customer,2025-03-12
+CARD_0337,CIF_1337,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-03-21
+CARD_0338,CIF_1338,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-05-17
+CARD_0339,CIF_1339,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-09-18
+CARD_0340,CIF_1340,Credit,Credit Platinum Cashback,Visa,None,2025-12-09
+CARD_0341,CIF_1341,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-11-13
+CARD_0342,CIF_1342,Credit,Credit Gold,Visa,Privilege Customer,2025-02-12
+CARD_0343,CIF_1343,Credit,Credit Gold,Visa,None,2025-10-11
+CARD_0344,CIF_1344,Credit,Credit Infinite,Visa,None,2025-09-24
+CARD_0345,CIF_1345,Credit,Credit Gold,Visa,Privilege Customer,2025-05-23
+CARD_0346,CIF_1346,Debit,Debit Digi,Visa,Privilege Customer,2025-03-02
+CARD_0347,CIF_1347,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-04-24
+CARD_0348,CIF_1348,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-01-08
+CARD_0349,CIF_1349,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-03-29
+CARD_0350,CIF_1350,Debit,Debit Privilege Signature,Visa,None,2025-08-25
+CARD_0351,CIF_1351,Debit,Debit Classic,Visa,Privilege Customer,2025-04-07
+CARD_0352,CIF_1352,Debit,Debit Classic,Visa,None,2025-01-14
+CARD_0353,CIF_1353,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-05-04
+CARD_0354,CIF_1354,Debit,Debit Classic,Visa,UUTIEN Customer,2025-09-15
+CARD_0355,CIF_1355,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-11-16
+CARD_0356,CIF_1356,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-09-11
+CARD_0357,CIF_1357,Credit,Credit Infinite,Visa,Privilege Customer,2025-09-16
+CARD_0358,CIF_1358,Credit,Credit Gold,Visa,UUTIEN Customer,2025-04-26
+CARD_0359,CIF_1359,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-09-24
+CARD_0360,CIF_1360,Debit,Debit Digi,Visa,None,2025-11-16
+CARD_0361,CIF_1361,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-02-24
+CARD_0362,CIF_1362,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-01-25
+CARD_0363,CIF_1363,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-06-06
+CARD_0364,CIF_1364,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-08-04
+CARD_0365,CIF_1365,Debit,Debit Digi,Visa,None,2025-11-22
+CARD_0366,CIF_1366,Credit,Credit Infinite,Visa,Privilege Customer,2025-04-24
+CARD_0367,CIF_1367,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-12-16
+CARD_0368,CIF_1368,Debit,Debit Digi,Visa,Privilege Customer,2025-09-04
+CARD_0369,CIF_1369,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-05-06
+CARD_0370,CIF_1370,Credit,Credit Infinite,Visa,Privilege Customer,2025-03-09
+CARD_0371,CIF_1371,Debit,Debit Classic,Visa,None,2025-11-25
+CARD_0372,CIF_1372,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-06-01
+CARD_0373,CIF_1373,Debit,Debit Classic,Visa,UUTIEN Customer,2025-10-14
+CARD_0374,CIF_1374,Debit,Debit Lotusmiles Virtual,Visa,None,2025-03-28
+CARD_0375,CIF_1375,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-10-23
+CARD_0376,CIF_1376,Debit,Debit Digi,Visa,None,2025-04-25
+CARD_0377,CIF_1377,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-02-25
+CARD_0378,CIF_1378,Debit,Debit Classic,Visa,UUTIEN Customer,2025-02-21
+CARD_0379,CIF_1379,Credit,Credit Infinite,Visa,None,2025-08-26
+CARD_0380,CIF_1380,Debit,Debit Digi,Visa,UUTIEN Customer,2025-12-26
+CARD_0381,CIF_1381,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-08-12
+CARD_0382,CIF_1382,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-02-25
+CARD_0383,CIF_1383,Credit,Credit Signature Privilege,Visa,None,2025-05-06
+CARD_0384,CIF_1384,Credit,Credit Signature Privilege,Visa,None,2025-06-23
+CARD_0385,CIF_1385,Debit,Debit Classic,Visa,UUTIEN Customer,2025-04-26
+CARD_0386,CIF_1386,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-05-19
+CARD_0387,CIF_1387,Debit,Debit Classic,Visa,Privilege Customer,2025-06-29
+CARD_0388,CIF_1388,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-10-19
+CARD_0389,CIF_1389,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-10-15
+CARD_0390,CIF_1390,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-06-21
+CARD_0391,CIF_1391,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-08-14
+CARD_0392,CIF_1392,Debit,Debit Privilege Signature,Visa,None,2025-02-04
+CARD_0393,CIF_1393,Debit,Debit Digi,Visa,Privilege Customer,2025-02-10
+CARD_0394,CIF_1394,Credit,Credit Platinum Cashback,Visa,None,2025-11-08
+CARD_0395,CIF_1395,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-09-30
+CARD_0396,CIF_1396,Credit,Credit Gold,Visa,None,2025-12-30
+CARD_0397,CIF_1397,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-08-23
+CARD_0398,CIF_1398,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-01-04
+CARD_0399,CIF_1399,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-04-12
+CARD_0400,CIF_1400,Credit,Credit Infinite,Visa,None,2025-11-24
+CARD_0401,CIF_1401,Credit,Credit Gold,Visa,None,2025-07-07
+CARD_0402,CIF_1402,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-08-29
+CARD_0403,CIF_1403,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-08-10
+CARD_0404,CIF_1404,Debit,Debit Digi,Visa,UUTIEN Customer,2025-08-25
+CARD_0405,CIF_1405,Debit,Debit Digi,Visa,Privilege Customer,2025-05-10
+CARD_0406,CIF_1406,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-01-07
+CARD_0407,CIF_1407,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-11-15
+CARD_0408,CIF_1408,Credit,Credit Platinum Cashback,Visa,None,2025-10-30
+CARD_0409,CIF_1409,Debit,Debit Classic,Visa,UUTIEN Customer,2025-11-08
+CARD_0410,CIF_1410,Debit,Debit Classic,Visa,UUTIEN Customer,2025-01-16
+CARD_0411,CIF_1411,Debit,Debit Lotusmiles Virtual,Visa,None,2025-11-08
+CARD_0412,CIF_1412,Credit,Credit Gold,Visa,None,2025-05-01
+CARD_0413,CIF_1413,Credit,Credit Gold,Visa,None,2025-05-12
+CARD_0414,CIF_1414,Credit,Credit Gold,Visa,None,2025-11-10
+CARD_0415,CIF_1415,Credit,Credit Gold,Visa,Privilege Customer,2025-04-23
+CARD_0416,CIF_1416,Debit,Debit Lotusmiles Virtual,Visa,None,2025-11-21
+CARD_0417,CIF_1417,Debit,Debit Digi,Visa,Privilege Customer,2025-06-18
+CARD_0418,CIF_1418,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-12-11
+CARD_0419,CIF_1419,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-09-21
+CARD_0420,CIF_1420,Credit,Credit Gold,Visa,UUTIEN Customer,2025-03-14
+CARD_0421,CIF_1421,Credit,Credit Infinite,Visa,Privilege Customer,2025-04-10
+CARD_0422,CIF_1422,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-06-09
+CARD_0423,CIF_1423,Credit,Credit Signature Privilege,Visa,None,2025-08-06
+CARD_0424,CIF_1424,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-02-15
+CARD_0425,CIF_1425,Debit,Debit Privilege Signature,Visa,None,2025-02-16
+CARD_0426,CIF_1426,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-07-31
+CARD_0427,CIF_1427,Debit,Debit Classic,Visa,Privilege Customer,2025-04-10
+CARD_0428,CIF_1428,Debit,Debit Classic,Visa,None,2025-10-04
+CARD_0429,CIF_1429,Credit,Credit Signature Privilege,Visa,None,2025-02-26
+CARD_0430,CIF_1430,Debit,Debit Digi,Visa,Privilege Customer,2025-04-17
+CARD_0431,CIF_1431,Credit,Credit Infinite,Visa,None,2025-12-08
+CARD_0432,CIF_1432,Credit,Credit Signature Privilege,Visa,None,2025-02-23
+CARD_0433,CIF_1433,Debit,Debit Digi,Visa,UUTIEN Customer,2025-04-16
+CARD_0434,CIF_1434,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-11-26
+CARD_0435,CIF_1435,Credit,Credit Infinite,Visa,None,2025-07-28
+CARD_0436,CIF_1436,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-06-08
+CARD_0437,CIF_1437,Debit,Debit Digi,Visa,Privilege Customer,2025-06-04
+CARD_0438,CIF_1438,Credit,Credit Signature Privilege,Visa,None,2025-10-30
+CARD_0439,CIF_1439,Debit,Debit Digi,Visa,Privilege Customer,2025-11-12
+CARD_0440,CIF_1440,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-08-10
+CARD_0441,CIF_1441,Debit,Debit Privilege Signature,Visa,None,2025-01-09
+CARD_0442,CIF_1442,Debit,Debit Lotusmiles Virtual,Visa,None,2025-09-26
+CARD_0443,CIF_1443,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-12-31
+CARD_0444,CIF_1444,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-03-02
+CARD_0445,CIF_1445,Debit,Debit Classic,Visa,Privilege Customer,2025-07-30
+CARD_0446,CIF_1446,Credit,Credit Gold,Visa,Privilege Customer,2025-07-11
+CARD_0447,CIF_1447,Credit,Credit Infinite,Visa,None,2025-02-18
+CARD_0448,CIF_1448,Credit,Credit Gold,Visa,Privilege Customer,2025-02-19
+CARD_0449,CIF_1449,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-03-13
+CARD_0450,CIF_1450,Debit,Debit Digi,Visa,Privilege Customer,2025-05-23
+CARD_0451,CIF_1451,Credit,Credit Gold,Visa,UUTIEN Customer,2025-03-11
+CARD_0452,CIF_1452,Debit,Debit Digi,Visa,None,2025-03-24
+CARD_0453,CIF_1453,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-10-21
+CARD_0454,CIF_1454,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-05-18
+CARD_0455,CIF_1455,Credit,Credit Gold,Visa,UUTIEN Customer,2025-02-22
+CARD_0456,CIF_1456,Debit,Debit Classic,Visa,UUTIEN Customer,2025-06-17
+CARD_0457,CIF_1457,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-03-11
+CARD_0458,CIF_1458,Credit,Credit Gold,Visa,None,2025-09-27
+CARD_0459,CIF_1459,Debit,Debit Lotusmiles Virtual,Visa,None,2025-10-10
+CARD_0460,CIF_1460,Credit,Credit Gold,Visa,None,2025-12-21
+CARD_0461,CIF_1461,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-09-02
+CARD_0462,CIF_1462,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-04-05
+CARD_0463,CIF_1463,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-04-06
+CARD_0464,CIF_1464,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-09-09
+CARD_0465,CIF_1465,Debit,Debit Digi,Visa,None,2025-11-10
+CARD_0466,CIF_1466,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-02-15
+CARD_0467,CIF_1467,Debit,Debit Lotusmiles Virtual,Visa,None,2025-10-31
+CARD_0468,CIF_1468,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-12-29
+CARD_0469,CIF_1469,Credit,Credit Infinite,Visa,None,2025-04-03
+CARD_0470,CIF_1470,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-11-11
+CARD_0471,CIF_1471,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-08-12
+CARD_0472,CIF_1472,Credit,Credit Infinite,Visa,None,2025-11-29
+CARD_0473,CIF_1473,Debit,Debit Privilege Signature,Visa,None,2025-07-06
+CARD_0474,CIF_1474,Credit,Credit Gold,Visa,None,2025-03-31
+CARD_0475,CIF_1475,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-02-24
+CARD_0476,CIF_1476,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-09-05
+CARD_0477,CIF_1477,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-09-16
+CARD_0478,CIF_1478,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-12-08
+CARD_0479,CIF_1479,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-10-20
+CARD_0480,CIF_1480,Debit,Debit Digi,Visa,None,2025-08-14
+CARD_0481,CIF_1481,Debit,Debit Lotusmiles Virtual,Visa,None,2025-07-26
+CARD_0482,CIF_1482,Credit,Credit Platinum Cashback,Visa,None,2025-05-06
+CARD_0483,CIF_1483,Credit,Credit Gold,Visa,None,2025-10-25
+CARD_0484,CIF_1484,Credit,Credit Gold,Visa,UUTIEN Customer,2025-03-27
+CARD_0485,CIF_1485,Debit,Debit Digi,Visa,Privilege Customer,2025-03-06
+CARD_0486,CIF_1486,Debit,Debit Digi,Visa,None,2025-07-31
+CARD_0487,CIF_1487,Debit,Debit Classic,Visa,Privilege Customer,2025-06-15
+CARD_0488,CIF_1488,Credit,Credit Gold,Visa,Privilege Customer,2025-07-14
+CARD_0489,CIF_1489,Credit,Credit Platinum Cashback,Visa,None,2025-08-11
+CARD_0490,CIF_1490,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-11-08
+CARD_0491,CIF_1491,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-07-10
+CARD_0492,CIF_1492,Debit,Debit Classic,Visa,None,2025-01-04
+CARD_0493,CIF_1493,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-05-27
+CARD_0494,CIF_1494,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-09-05
+CARD_0495,CIF_1495,Debit,Debit Digi,Visa,None,2025-06-13
+CARD_0496,CIF_1496,Debit,Debit Classic,Visa,None,2025-06-01
+CARD_0497,CIF_1497,Debit,Debit Classic,Visa,UUTIEN Customer,2025-11-15
+CARD_0498,CIF_1498,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-09-17
+CARD_0499,CIF_1499,Credit,Credit Gold,Visa,Privilege Customer,2025-09-06
+CARD_0500,CIF_1500,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-01-12
+CARD_0501,CIF_1501,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-06-01
+CARD_0502,CIF_1502,Credit,Credit Infinite,Visa,Privilege Customer,2025-07-22
+CARD_0503,CIF_1503,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-12-05
+CARD_0504,CIF_1504,Debit,Debit Classic,Visa,UUTIEN Customer,2025-02-14
+CARD_0505,CIF_1505,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-04-16
+CARD_0506,CIF_1506,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-07-02
+CARD_0507,CIF_1507,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-11-28
+CARD_0508,CIF_1508,Credit,Credit Platinum Cashback,Visa,None,2025-04-08
+CARD_0509,CIF_1509,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-03-04
+CARD_0510,CIF_1510,Credit,Credit Platinum Cashback,Visa,None,2025-06-01
+CARD_0511,CIF_1511,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-06-27
+CARD_0512,CIF_1512,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-01-29
+CARD_0513,CIF_1513,Credit,Credit Gold,Visa,UUTIEN Customer,2025-02-27
+CARD_0514,CIF_1514,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-09-04
+CARD_0515,CIF_1515,Credit,Credit Gold,Visa,UUTIEN Customer,2025-08-24
+CARD_0516,CIF_1516,Debit,Debit Lotusmiles Virtual,Visa,None,2025-10-07
+CARD_0517,CIF_1517,Credit,Credit Infinite,Visa,None,2025-02-15
+CARD_0518,CIF_1518,Debit,Debit Digi,Visa,None,2025-11-10
+CARD_0519,CIF_1519,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-04-04
+CARD_0520,CIF_1520,Debit,Debit Digi,Visa,UUTIEN Customer,2025-12-16
+CARD_0521,CIF_1521,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-07-18
+CARD_0522,CIF_1522,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-04-23
+CARD_0523,CIF_1523,Debit,Debit Privilege Signature,Visa,None,2025-06-13
+CARD_0524,CIF_1524,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-03-21
+CARD_0525,CIF_1525,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-06-16
+CARD_0526,CIF_1526,Debit,Debit Digi,Visa,UUTIEN Customer,2025-05-28
+CARD_0527,CIF_1527,Credit,Credit Infinite,Visa,Privilege Customer,2025-08-18
+CARD_0528,CIF_1528,Credit,Credit Signature Privilege,Visa,None,2025-11-25
+CARD_0529,CIF_1529,Debit,Debit Privilege Signature,Visa,None,2025-09-25
+CARD_0530,CIF_1530,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-07-13
+CARD_0531,CIF_1531,Debit,Debit Digi,Visa,Privilege Customer,2025-08-25
+CARD_0532,CIF_1532,Debit,Debit Classic,Visa,UUTIEN Customer,2025-12-07
+CARD_0533,CIF_1533,Debit,Debit Classic,Visa,None,2025-12-17
+CARD_0534,CIF_1534,Credit,Credit Infinite,Visa,None,2025-11-20
+CARD_0535,CIF_1535,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-01-04
+CARD_0536,CIF_1536,Credit,Credit Signature Privilege,Visa,None,2025-02-19
+CARD_0537,CIF_1537,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-09-21
+CARD_0538,CIF_1538,Credit,Credit Gold,Visa,UUTIEN Customer,2025-02-02
+CARD_0539,CIF_1539,Debit,Debit Digi,Visa,Privilege Customer,2025-09-25
+CARD_0540,CIF_1540,Debit,Debit Privilege Signature,Visa,None,2025-12-14
+CARD_0541,CIF_1541,Debit,Debit Digi,Visa,Privilege Customer,2025-06-02
+CARD_0542,CIF_1542,Credit,Credit Gold,Visa,UUTIEN Customer,2025-06-04
+CARD_0543,CIF_1543,Credit,Credit Gold,Visa,UUTIEN Customer,2025-05-24
+CARD_0544,CIF_1544,Credit,Credit Gold,Visa,Privilege Customer,2025-01-26
+CARD_0545,CIF_1545,Debit,Debit Classic,Visa,Privilege Customer,2025-05-09
+CARD_0546,CIF_1546,Debit,Debit Classic,Visa,None,2025-09-14
+CARD_0547,CIF_1547,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-09-30
+CARD_0548,CIF_1548,Credit,Credit Gold,Visa,Privilege Customer,2025-05-04
+CARD_0549,CIF_1549,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-12-24
+CARD_0550,CIF_1550,Debit,Debit Privilege Signature,Visa,None,2025-01-05
+CARD_0551,CIF_1551,Credit,Credit Signature Privilege,Visa,None,2025-10-08
+CARD_0552,CIF_1552,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-10-02
+CARD_0553,CIF_1553,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-05-02
+CARD_0554,CIF_1554,Debit,Debit Digi,Visa,UUTIEN Customer,2025-11-12
+CARD_0555,CIF_1555,Debit,Debit Lotusmiles Virtual,Visa,None,2025-06-17
+CARD_0556,CIF_1556,Debit,Debit Classic,Visa,UUTIEN Customer,2025-03-31
+CARD_0557,CIF_1557,Debit,Debit Classic,Visa,UUTIEN Customer,2025-02-15
+CARD_0558,CIF_1558,Credit,Credit Signature Privilege,Visa,None,2025-04-29
+CARD_0559,CIF_1559,Debit,Debit Classic,Visa,Privilege Customer,2025-11-23
+CARD_0560,CIF_1560,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-10-23
+CARD_0561,CIF_1561,Debit,Debit Privilege Signature,Visa,None,2025-03-19
+CARD_0562,CIF_1562,Debit,Debit Digi,Visa,Privilege Customer,2025-02-02
+CARD_0563,CIF_1563,Credit,Credit Gold,Visa,None,2025-04-21
+CARD_0564,CIF_1564,Credit,Credit Infinite,Visa,None,2025-03-25
+CARD_0565,CIF_1565,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-01-01
+CARD_0566,CIF_1566,Credit,Credit Gold,Visa,Privilege Customer,2025-07-30
+CARD_0567,CIF_1567,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-08-08
+CARD_0568,CIF_1568,Debit,Debit Privilege Signature,Visa,None,2025-09-17
+CARD_0569,CIF_1569,Credit,Credit Platinum Cashback,Visa,None,2025-07-06
+CARD_0570,CIF_1570,Debit,Debit Privilege Signature,Visa,None,2025-04-05
+CARD_0571,CIF_1571,Credit,Credit Gold,Visa,Privilege Customer,2025-08-06
+CARD_0572,CIF_1572,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-08-03
+CARD_0573,CIF_1573,Debit,Debit Classic,Visa,UUTIEN Customer,2025-02-09
+CARD_0574,CIF_1574,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-04-07
+CARD_0575,CIF_1575,Credit,Credit Gold,Visa,Privilege Customer,2025-11-02
+CARD_0576,CIF_1576,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-12-29
+CARD_0577,CIF_1577,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-08-30
+CARD_0578,CIF_1578,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-05-23
+CARD_0579,CIF_1579,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-12-05
+CARD_0580,CIF_1580,Credit,Credit Platinum Cashback,Visa,None,2025-03-23
+CARD_0581,CIF_1581,Credit,Credit Signature Privilege,Visa,None,2025-10-06
+CARD_0582,CIF_1582,Debit,Debit Lotusmiles Virtual,Visa,None,2025-02-18
+CARD_0583,CIF_1583,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-11-12
+CARD_0584,CIF_1584,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-01-16
+CARD_0585,CIF_1585,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-06-26
+CARD_0586,CIF_1586,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-10-23
+CARD_0587,CIF_1587,Debit,Debit Classic,Visa,None,2025-03-03
+CARD_0588,CIF_1588,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-07-27
+CARD_0589,CIF_1589,Debit,Debit Lotusmiles Virtual,Visa,None,2025-12-23
+CARD_0590,CIF_1590,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-07-16
+CARD_0591,CIF_1591,Debit,Debit Digi,Visa,UUTIEN Customer,2025-07-18
+CARD_0592,CIF_1592,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-05-05
+CARD_0593,CIF_1593,Debit,Debit Classic,Visa,UUTIEN Customer,2025-11-02
+CARD_0594,CIF_1594,Debit,Debit Digi,Visa,UUTIEN Customer,2025-12-01
+CARD_0595,CIF_1595,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-05-14
+CARD_0596,CIF_1596,Credit,Credit Signature Privilege,Visa,None,2025-02-03
+CARD_0597,CIF_1597,Credit,Credit Gold,Visa,None,2025-07-15
+CARD_0598,CIF_1598,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-04-10
+CARD_0599,CIF_1599,Debit,Debit Digi,Visa,Privilege Customer,2025-08-17
+CARD_0600,CIF_1600,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-09-29
+CARD_0601,CIF_1601,Debit,Debit Classic,Visa,Privilege Customer,2025-12-11
+CARD_0602,CIF_1602,Credit,Credit Infinite,Visa,Privilege Customer,2025-11-16
+CARD_0603,CIF_1603,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-12-07
+CARD_0604,CIF_1604,Credit,Credit Gold,Visa,Privilege Customer,2025-08-19
+CARD_0605,CIF_1605,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-11-21
+CARD_0606,CIF_1606,Credit,Credit Gold,Visa,None,2025-10-18
+CARD_0607,CIF_1607,Credit,Credit Infinite,Visa,Privilege Customer,2025-12-06
+CARD_0608,CIF_1608,Credit,Credit Gold,Visa,UUTIEN Customer,2025-01-27
+CARD_0609,CIF_1609,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-05-28
+CARD_0610,CIF_1610,Debit,Debit Classic,Visa,UUTIEN Customer,2025-01-01
+CARD_0611,CIF_1611,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-11-03
+CARD_0612,CIF_1612,Debit,Debit Classic,Visa,Privilege Customer,2025-10-27
+CARD_0613,CIF_1613,Debit,Debit Lotusmiles Virtual,Visa,None,2025-09-11
+CARD_0614,CIF_1614,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-10-13
+CARD_0615,CIF_1615,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-12-29
+CARD_0616,CIF_1616,Debit,Debit Digi,Visa,UUTIEN Customer,2025-01-06
+CARD_0617,CIF_1617,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-01-02
+CARD_0618,CIF_1618,Credit,Credit Infinite,Visa,Privilege Customer,2025-07-13
+CARD_0619,CIF_1619,Debit,Debit Privilege Signature,Visa,None,2025-06-14
+CARD_0620,CIF_1620,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-08-25
+CARD_0621,CIF_1621,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-12-08
+CARD_0622,CIF_1622,Credit,Credit Infinite,Visa,Privilege Customer,2025-04-05
+CARD_0623,CIF_1623,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-07-07
+CARD_0624,CIF_1624,Debit,Debit Lotusmiles Virtual,Visa,None,2025-12-11
+CARD_0625,CIF_1625,Debit,Debit Classic,Visa,UUTIEN Customer,2025-10-05
+CARD_0626,CIF_1626,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-05-26
+CARD_0627,CIF_1627,Credit,Credit Platinum Cashback,Visa,None,2025-05-30
+CARD_0628,CIF_1628,Debit,Debit Digi,Visa,Privilege Customer,2025-01-13
+CARD_0629,CIF_1629,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-09-06
+CARD_0630,CIF_1630,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-02-01
+CARD_0631,CIF_1631,Debit,Debit Classic,Visa,Privilege Customer,2025-06-12
+CARD_0632,CIF_1632,Debit,Debit Digi,Visa,UUTIEN Customer,2025-01-02
+CARD_0633,CIF_1633,Credit,Credit Infinite,Visa,Privilege Customer,2025-09-10
+CARD_0634,CIF_1634,Credit,Credit Infinite,Visa,None,2025-06-28
+CARD_0635,CIF_1635,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-10-05
+CARD_0636,CIF_1636,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-06-16
+CARD_0637,CIF_1637,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-12-06
+CARD_0638,CIF_1638,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-12-30
+CARD_0639,CIF_1639,Debit,Debit Digi,Visa,UUTIEN Customer,2025-01-10
+CARD_0640,CIF_1640,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-04-01
+CARD_0641,CIF_1641,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-04-09
+CARD_0642,CIF_1642,Debit,Debit Digi,Visa,Privilege Customer,2025-05-19
+CARD_0643,CIF_1643,Credit,Credit Infinite,Visa,Privilege Customer,2025-09-07
+CARD_0644,CIF_1644,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-11-20
+CARD_0645,CIF_1645,Debit,Debit Digi,Visa,None,2025-03-02
+CARD_0646,CIF_1646,Credit,Credit Gold,Visa,UUTIEN Customer,2025-08-19
+CARD_0647,CIF_1647,Debit,Debit Digi,Visa,Privilege Customer,2025-01-25
+CARD_0648,CIF_1648,Credit,Credit Infinite,Visa,None,2025-07-30
+CARD_0649,CIF_1649,Debit,Debit Classic,Visa,UUTIEN Customer,2025-11-07
+CARD_0650,CIF_1650,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-09-12
+CARD_0651,CIF_1651,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-08-31
+CARD_0652,CIF_1652,Credit,Credit Infinite,Visa,None,2025-09-25
+CARD_0653,CIF_1653,Credit,Credit Infinite,Visa,Privilege Customer,2025-04-22
+CARD_0654,CIF_1654,Debit,Debit Digi,Visa,Privilege Customer,2025-08-17
+CARD_0655,CIF_1655,Credit,Credit Signature Privilege,Visa,None,2025-08-06
+CARD_0656,CIF_1656,Credit,Credit Gold,Visa,UUTIEN Customer,2025-03-07
+CARD_0657,CIF_1657,Debit,Debit Digi,Visa,UUTIEN Customer,2025-04-09
+CARD_0658,CIF_1658,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-07-18
+CARD_0659,CIF_1659,Debit,Debit Lotusmiles Virtual,Visa,None,2025-01-25
+CARD_0660,CIF_1660,Debit,Debit Digi,Visa,Privilege Customer,2025-08-29
+CARD_0661,CIF_1661,Debit,Debit Classic,Visa,Privilege Customer,2025-07-29
+CARD_0662,CIF_1662,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-05-23
+CARD_0663,CIF_1663,Debit,Debit Digi,Visa,None,2025-09-02
+CARD_0664,CIF_1664,Debit,Debit Classic,Visa,None,2025-07-04
+CARD_0665,CIF_1665,Debit,Debit Classic,Visa,Privilege Customer,2025-10-03
+CARD_0666,CIF_1666,Credit,Credit Infinite,Visa,Privilege Customer,2025-03-29
+CARD_0667,CIF_1667,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-09-13
+CARD_0668,CIF_1668,Debit,Debit Digi,Visa,Privilege Customer,2025-07-25
+CARD_0669,CIF_1669,Credit,Credit Signature Privilege,Visa,None,2025-12-28
+CARD_0670,CIF_1670,Credit,Credit Signature Privilege,Visa,None,2025-10-12
+CARD_0671,CIF_1671,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-09-21
+CARD_0672,CIF_1672,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-02-13
+CARD_0673,CIF_1673,Debit,Debit Digi,Visa,None,2025-08-31
+CARD_0674,CIF_1674,Debit,Debit Classic,Visa,UUTIEN Customer,2025-06-02
+CARD_0675,CIF_1675,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-08-01
+CARD_0676,CIF_1676,Credit,Credit Gold,Visa,UUTIEN Customer,2025-09-02
+CARD_0677,CIF_1677,Debit,Debit Digi,Visa,Privilege Customer,2025-11-10
+CARD_0678,CIF_1678,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-07-26
+CARD_0679,CIF_1679,Debit,Debit Privilege Signature,Visa,None,2025-09-11
+CARD_0680,CIF_1680,Credit,Credit Signature Privilege,Visa,None,2025-07-22
+CARD_0681,CIF_1681,Debit,Debit Digi,Visa,Privilege Customer,2025-09-01
+CARD_0682,CIF_1682,Debit,Debit Privilege Signature,Visa,None,2025-11-04
+CARD_0683,CIF_1683,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-08-07
+CARD_0684,CIF_1684,Credit,Credit Gold,Visa,None,2025-04-20
+CARD_0685,CIF_1685,Debit,Debit Classic,Visa,None,2025-05-17
+CARD_0686,CIF_1686,Debit,Debit Digi,Visa,UUTIEN Customer,2025-05-07
+CARD_0687,CIF_1687,Credit,Credit Gold,Visa,Privilege Customer,2025-01-07
+CARD_0688,CIF_1688,Credit,Credit Signature Privilege,Visa,None,2025-11-23
+CARD_0689,CIF_1689,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-03-16
+CARD_0690,CIF_1690,Debit,Debit Digi,Visa,None,2025-07-05
+CARD_0691,CIF_1691,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-09-15
+CARD_0692,CIF_1692,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-11-19
+CARD_0693,CIF_1693,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-07-13
+CARD_0694,CIF_1694,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-10-26
+CARD_0695,CIF_1695,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-05-15
+CARD_0696,CIF_1696,Credit,Credit Infinite,Visa,Privilege Customer,2025-11-27
+CARD_0697,CIF_1697,Debit,Debit Digi,Visa,Privilege Customer,2025-10-20
+CARD_0698,CIF_1698,Debit,Debit Classic,Visa,None,2025-03-06
+CARD_0699,CIF_1699,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-08-16
+CARD_0700,CIF_1700,Debit,Debit Lotusmiles Virtual,Visa,None,2025-11-15
+CARD_0701,CIF_1701,Credit,Credit Infinite,Visa,None,2025-02-02
+CARD_0702,CIF_1702,Debit,Debit Classic,Visa,Privilege Customer,2025-05-26
+CARD_0703,CIF_1703,Credit,Credit Gold,Visa,None,2025-08-24
+CARD_0704,CIF_1704,Debit,Debit Digi,Visa,Privilege Customer,2025-09-24
+CARD_0705,CIF_1705,Debit,Debit Digi,Visa,None,2025-12-17
+CARD_0706,CIF_1706,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-03-19
+CARD_0707,CIF_1707,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-06-10
+CARD_0708,CIF_1708,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-07-12
+CARD_0709,CIF_1709,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-10-02
+CARD_0710,CIF_1710,Debit,Debit Classic,Visa,UUTIEN Customer,2025-11-19
+CARD_0711,CIF_1711,Debit,Debit Classic,Visa,UUTIEN Customer,2025-12-09
+CARD_0712,CIF_1712,Debit,Debit Classic,Visa,None,2025-10-25
+CARD_0713,CIF_1713,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-09-19
+CARD_0714,CIF_1714,Credit,Credit Infinite,Visa,Privilege Customer,2025-11-06
+CARD_0715,CIF_1715,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-10-05
+CARD_0716,CIF_1716,Credit,Credit Gold,Visa,None,2025-04-07
+CARD_0717,CIF_1717,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-02-12
+CARD_0718,CIF_1718,Debit,Debit Digi,Visa,Privilege Customer,2025-01-23
+CARD_0719,CIF_1719,Debit,Debit Digi,Visa,None,2025-07-12
+CARD_0720,CIF_1720,Credit,Credit Infinite,Visa,None,2025-09-21
+CARD_0721,CIF_1721,Credit,Credit Infinite,Visa,Privilege Customer,2025-11-24
+CARD_0722,CIF_1722,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-06-06
+CARD_0723,CIF_1723,Credit,Credit Signature Privilege,Visa,None,2025-07-23
+CARD_0724,CIF_1724,Debit,Debit Classic,Visa,UUTIEN Customer,2025-02-19
+CARD_0725,CIF_1725,Debit,Debit Classic,Visa,Privilege Customer,2025-04-04
+CARD_0726,CIF_1726,Debit,Debit Classic,Visa,UUTIEN Customer,2025-03-24
+CARD_0727,CIF_1727,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-02-16
+CARD_0728,CIF_1728,Debit,Debit Classic,Visa,Privilege Customer,2025-08-26
+CARD_0729,CIF_1729,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-10-26
+CARD_0730,CIF_1730,Debit,Debit Classic,Visa,UUTIEN Customer,2025-03-09
+CARD_0731,CIF_1731,Credit,Credit Infinite,Visa,Privilege Customer,2025-01-18
+CARD_0732,CIF_1732,Debit,Debit Classic,Visa,Privilege Customer,2025-02-12
+CARD_0733,CIF_1733,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-11-07
+CARD_0734,CIF_1734,Debit,Debit Classic,Visa,Privilege Customer,2025-04-26
+CARD_0735,CIF_1735,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-07-30
+CARD_0736,CIF_1736,Debit,Debit Lotusmiles Virtual,Visa,None,2025-04-10
+CARD_0737,CIF_1737,Debit,Debit Privilege Signature,Visa,None,2025-11-18
+CARD_0738,CIF_1738,Debit,Debit Classic,Visa,UUTIEN Customer,2025-02-03
+CARD_0739,CIF_1739,Debit,Debit Digi,Visa,None,2025-07-11
+CARD_0740,CIF_1740,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-04-28
+CARD_0741,CIF_1741,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-04-30
+CARD_0742,CIF_1742,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-12-28
+CARD_0743,CIF_1743,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-06-11
+CARD_0744,CIF_1744,Debit,Debit Classic,Visa,Privilege Customer,2025-12-24
+CARD_0745,CIF_1745,Debit,Debit Classic,Visa,Privilege Customer,2025-03-23
+CARD_0746,CIF_1746,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-10-09
+CARD_0747,CIF_1747,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-09-07
+CARD_0748,CIF_1748,Credit,Credit Platinum Cashback,Visa,None,2025-01-31
+CARD_0749,CIF_1749,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-09-17
+CARD_0750,CIF_1750,Debit,Debit Classic,Visa,Privilege Customer,2025-05-26
+CARD_0751,CIF_1751,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-01-22
+CARD_0752,CIF_1752,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-12-28
+CARD_0753,CIF_1753,Credit,Credit Infinite,Visa,None,2025-07-26
+CARD_0754,CIF_1754,Credit,Credit Infinite,Visa,None,2025-12-31
+CARD_0755,CIF_1755,Debit,Debit Privilege Signature,Visa,None,2025-07-05
+CARD_0756,CIF_1756,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-06-29
+CARD_0757,CIF_1757,Debit,Debit Classic,Visa,Privilege Customer,2025-02-23
+CARD_0758,CIF_1758,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-03-29
+CARD_0759,CIF_1759,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-08-25
+CARD_0760,CIF_1760,Debit,Debit Privilege Signature,Visa,None,2025-01-10
+CARD_0761,CIF_1761,Credit,Credit Infinite,Visa,None,2025-04-28
+CARD_0762,CIF_1762,Credit,Credit Platinum Cashback,Visa,None,2025-03-04
+CARD_0763,CIF_1763,Debit,Debit Privilege Signature,Visa,None,2025-11-11
+CARD_0764,CIF_1764,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-12-19
+CARD_0765,CIF_1765,Credit,Credit Gold,Visa,Privilege Customer,2025-11-27
+CARD_0766,CIF_1766,Debit,Debit Classic,Visa,Privilege Customer,2025-03-12
+CARD_0767,CIF_1767,Credit,Credit Signature Privilege,Visa,None,2025-12-06
+CARD_0768,CIF_1768,Debit,Debit Digi,Visa,None,2025-03-27
+CARD_0769,CIF_1769,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-09-03
+CARD_0770,CIF_1770,Debit,Debit Digi,Visa,UUTIEN Customer,2025-06-11
+CARD_0771,CIF_1771,Credit,Credit Infinite,Visa,None,2025-12-26
+CARD_0772,CIF_1772,Credit,Credit Gold,Visa,Privilege Customer,2025-05-09
+CARD_0773,CIF_1773,Credit,Credit Gold,Visa,Privilege Customer,2025-12-15
+CARD_0774,CIF_1774,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-03-25
+CARD_0775,CIF_1775,Credit,Credit Gold,Visa,UUTIEN Customer,2025-06-29
+CARD_0776,CIF_1776,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-07-18
+CARD_0777,CIF_1777,Debit,Debit Classic,Visa,None,2025-05-09
+CARD_0778,CIF_1778,Debit,Debit Lotusmiles Virtual,Visa,None,2025-01-13
+CARD_0779,CIF_1779,Credit,Credit Infinite,Visa,None,2025-01-05
+CARD_0780,CIF_1780,Credit,Credit Infinite,Visa,None,2025-09-16
+CARD_0781,CIF_1781,Credit,Credit Infinite,Visa,Privilege Customer,2025-07-12
+CARD_0782,CIF_1782,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-06-22
+CARD_0783,CIF_1783,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-01-06
+CARD_0784,CIF_1784,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-12-02
+CARD_0785,CIF_1785,Debit,Debit Lotusmiles Virtual,Visa,None,2025-06-03
+CARD_0786,CIF_1786,Credit,Credit Gold,Visa,Privilege Customer,2025-05-09
+CARD_0787,CIF_1787,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-02-13
+CARD_0788,CIF_1788,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-03-01
+CARD_0789,CIF_1789,Credit,Credit Signature Privilege,Visa,None,2025-05-03
+CARD_0790,CIF_1790,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-06-25
+CARD_0791,CIF_1791,Credit,Credit Signature Privilege,Visa,None,2025-07-12
+CARD_0792,CIF_1792,Credit,Credit Gold,Visa,Privilege Customer,2025-01-04
+CARD_0793,CIF_1793,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-08-05
+CARD_0794,CIF_1794,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-07-27
+CARD_0795,CIF_1795,Credit,Credit Gold,Visa,UUTIEN Customer,2025-10-24
+CARD_0796,CIF_1796,Credit,Credit Gold,Visa,None,2025-02-26
+CARD_0797,CIF_1797,Credit,Credit Signature Privilege,Visa,None,2025-12-21
+CARD_0798,CIF_1798,Debit,Debit Classic,Visa,Privilege Customer,2025-07-24
+CARD_0799,CIF_1799,Debit,Debit Digi,Visa,None,2025-11-01
+CARD_0800,CIF_1800,Debit,Debit Classic,Visa,Privilege Customer,2025-12-21
+CARD_0801,CIF_1801,Credit,Credit Platinum Cashback,Visa,None,2025-12-23
+CARD_0802,CIF_1802,Debit,Debit Digi,Visa,None,2025-02-03
+CARD_0803,CIF_1803,Credit,Credit Infinite,Visa,Privilege Customer,2025-08-17
+CARD_0804,CIF_1804,Debit,Debit Privilege Signature,Visa,None,2025-05-13
+CARD_0805,CIF_1805,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-07-25
+CARD_0806,CIF_1806,Credit,Credit Gold,Visa,UUTIEN Customer,2025-07-22
+CARD_0807,CIF_1807,Credit,Credit Gold,Visa,None,2025-04-30
+CARD_0808,CIF_1808,Debit,Debit Classic,Visa,None,2025-05-30
+CARD_0809,CIF_1809,Credit,Credit Gold,Visa,UUTIEN Customer,2025-08-06
+CARD_0810,CIF_1810,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-04-19
+CARD_0811,CIF_1811,Credit,Credit Gold,Visa,Privilege Customer,2025-10-17
+CARD_0812,CIF_1812,Debit,Debit Digi,Visa,None,2025-09-14
+CARD_0813,CIF_1813,Debit,Debit Digi,Visa,Privilege Customer,2025-10-07
+CARD_0814,CIF_1814,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-07-20
+CARD_0815,CIF_1815,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-09-07
+CARD_0816,CIF_1816,Debit,Debit Privilege Signature,Visa,None,2025-05-18
+CARD_0817,CIF_1817,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-12-18
+CARD_0818,CIF_1818,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-03-12
+CARD_0819,CIF_1819,Credit,Credit Gold,Visa,UUTIEN Customer,2025-02-10
+CARD_0820,CIF_1820,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-12-12
+CARD_0821,CIF_1821,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-03-06
+CARD_0822,CIF_1822,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-02-20
+CARD_0823,CIF_1823,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-11-08
+CARD_0824,CIF_1824,Credit,Credit Signature Privilege,Visa,None,2025-10-02
+CARD_0825,CIF_1825,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-11-09
+CARD_0826,CIF_1826,Credit,Credit Infinite,Visa,None,2025-09-30
+CARD_0827,CIF_1827,Debit,Debit Classic,Visa,Privilege Customer,2025-08-20
+CARD_0828,CIF_1828,Credit,Credit Gold,Visa,UUTIEN Customer,2025-09-07
+CARD_0829,CIF_1829,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-03-08
+CARD_0830,CIF_1830,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-10-27
+CARD_0831,CIF_1831,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-04-28
+CARD_0832,CIF_1832,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-11-30
+CARD_0833,CIF_1833,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-05-06
+CARD_0834,CIF_1834,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-05-01
+CARD_0835,CIF_1835,Debit,Debit Classic,Visa,UUTIEN Customer,2025-05-14
+CARD_0836,CIF_1836,Debit,Debit Classic,Visa,UUTIEN Customer,2025-10-05
+CARD_0837,CIF_1837,Credit,Credit Platinum Cashback,Visa,None,2025-04-08
+CARD_0838,CIF_1838,Debit,Debit Privilege Signature,Visa,None,2025-11-16
+CARD_0839,CIF_1839,Credit,Credit Signature Privilege,Visa,None,2025-12-01
+CARD_0840,CIF_1840,Debit,Debit Digi,Visa,None,2025-10-24
+CARD_0841,CIF_1841,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-09-03
+CARD_0842,CIF_1842,Credit,Credit Infinite,Visa,None,2025-11-11
+CARD_0843,CIF_1843,Debit,Debit Digi,Visa,None,2025-02-12
+CARD_0844,CIF_1844,Credit,Credit Gold,Visa,None,2025-02-18
+CARD_0845,CIF_1845,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-10-19
+CARD_0846,CIF_1846,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-12-20
+CARD_0847,CIF_1847,Debit,Debit Classic,Visa,None,2025-03-03
+CARD_0848,CIF_1848,Debit,Debit Lotusmiles Virtual,Visa,None,2025-12-02
+CARD_0849,CIF_1849,Credit,Credit Signature Privilege,Visa,None,2025-12-08
+CARD_0850,CIF_1850,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-04-07
+CARD_0851,CIF_1851,Debit,Debit Privilege Signature,Visa,None,2025-04-04
+CARD_0852,CIF_1852,Credit,Credit Infinite,Visa,Privilege Customer,2025-09-05
+CARD_0853,CIF_1853,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-05-07
+CARD_0854,CIF_1854,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-01-08
+CARD_0855,CIF_1855,Debit,Debit Privilege Signature,Visa,None,2025-05-15
+CARD_0856,CIF_1856,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-01-20
+CARD_0857,CIF_1857,Debit,Debit Digi,Visa,None,2025-09-18
+CARD_0858,CIF_1858,Debit,Debit Classic,Visa,None,2025-04-06
+CARD_0859,CIF_1859,Credit,Credit Gold,Visa,UUTIEN Customer,2025-02-26
+CARD_0860,CIF_1860,Credit,Credit Infinite,Visa,Privilege Customer,2025-06-04
+CARD_0861,CIF_1861,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-02-05
+CARD_0862,CIF_1862,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-03-21
+CARD_0863,CIF_1863,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-06-30
+CARD_0864,CIF_1864,Credit,Credit Gold,Visa,UUTIEN Customer,2025-05-26
+CARD_0865,CIF_1865,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-05-04
+CARD_0866,CIF_1866,Debit,Debit Digi,Visa,UUTIEN Customer,2025-02-10
+CARD_0867,CIF_1867,Credit,Credit Gold,Visa,None,2025-02-22
+CARD_0868,CIF_1868,Debit,Debit Digi,Visa,Privilege Customer,2025-04-15
+CARD_0869,CIF_1869,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-05-25
+CARD_0870,CIF_1870,Credit,Credit Signature Privilege,Visa,None,2025-04-14
+CARD_0871,CIF_1871,Debit,Debit Classic,Visa,None,2025-07-22
+CARD_0872,CIF_1872,Debit,Debit Digi,Visa,UUTIEN Customer,2025-06-17
+CARD_0873,CIF_1873,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-05-26
+CARD_0874,CIF_1874,Debit,Debit Lotusmiles Virtual,Visa,None,2025-03-28
+CARD_0875,CIF_1875,Credit,Credit Gold,Visa,Privilege Customer,2025-12-21
+CARD_0876,CIF_1876,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-01-25
+CARD_0877,CIF_1877,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-04-29
+CARD_0878,CIF_1878,Credit,Credit Signature Privilege,Visa,None,2025-06-04
+CARD_0879,CIF_1879,Debit,Debit Lotusmiles Virtual,Visa,None,2025-12-12
+CARD_0880,CIF_1880,Debit,Debit Classic,Visa,Privilege Customer,2025-07-09
+CARD_0881,CIF_1881,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-11-03
+CARD_0882,CIF_1882,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-07-06
+CARD_0883,CIF_1883,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-06-23
+CARD_0884,CIF_1884,Credit,Credit Platinum Cashback,Visa,None,2025-10-27
+CARD_0885,CIF_1885,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-11-17
+CARD_0886,CIF_1886,Debit,Debit Lotusmiles Virtual,Visa,None,2025-11-04
+CARD_0887,CIF_1887,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-06-28
+CARD_0888,CIF_1888,Debit,Debit Privilege Signature,Visa,None,2025-12-19
+CARD_0889,CIF_1889,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-07-12
+CARD_0890,CIF_1890,Debit,Debit Lotusmiles Virtual,Visa,None,2025-12-12
+CARD_0891,CIF_1891,Credit,Credit Infinite,Visa,Privilege Customer,2025-12-29
+CARD_0892,CIF_1892,Credit,Credit Infinite,Visa,Privilege Customer,2025-03-06
+CARD_0893,CIF_1893,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-01-03
+CARD_0894,CIF_1894,Debit,Debit Digi,Visa,None,2025-07-22
+CARD_0895,CIF_1895,Debit,Debit Privilege Signature,Visa,None,2025-12-30
+CARD_0896,CIF_1896,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-02-06
+CARD_0897,CIF_1897,Debit,Debit Classic,Visa,None,2025-01-01
+CARD_0898,CIF_1898,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-06-30
+CARD_0899,CIF_1899,Debit,Debit Classic,Visa,None,2025-10-12
+CARD_0900,CIF_1900,Credit,Credit Gold,Visa,None,2025-05-20
+CARD_0901,CIF_1901,Debit,Debit Classic,Visa,Privilege Customer,2025-07-30
+CARD_0902,CIF_1902,Debit,Debit Privilege Signature,Visa,None,2025-09-01
+CARD_0903,CIF_1903,Debit,Debit Privilege Signature,Visa,None,2025-04-01
+CARD_0904,CIF_1904,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-02-12
+CARD_0905,CIF_1905,Credit,Credit Infinite,Visa,Privilege Customer,2025-01-21
+CARD_0906,CIF_1906,Debit,Debit Classic,Visa,None,2025-08-21
+CARD_0907,CIF_1907,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-03-04
+CARD_0908,CIF_1908,Debit,Debit Lotusmiles Virtual,Visa,None,2025-01-12
+CARD_0909,CIF_1909,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-01-01
+CARD_0910,CIF_1910,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-08-11
+CARD_0911,CIF_1911,Credit,Credit Gold,Visa,None,2025-01-10
+CARD_0912,CIF_1912,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-07-08
+CARD_0913,CIF_1913,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-02-22
+CARD_0914,CIF_1914,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-08-26
+CARD_0915,CIF_1915,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-05-05
+CARD_0916,CIF_1916,Debit,Debit Digi,Visa,Privilege Customer,2025-04-17
+CARD_0917,CIF_1917,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-08-31
+CARD_0918,CIF_1918,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-05-10
+CARD_0919,CIF_1919,Debit,Debit Digi,Visa,UUTIEN Customer,2025-02-08
+CARD_0920,CIF_1920,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-03-13
+CARD_0921,CIF_1921,Debit,Debit Lotusmiles Virtual,Visa,None,2025-11-24
+CARD_0922,CIF_1922,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-03-17
+CARD_0923,CIF_1923,Debit,Debit Digi,Visa,UUTIEN Customer,2025-05-07
+CARD_0924,CIF_1924,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-10-16
+CARD_0925,CIF_1925,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-08-14
+CARD_0926,CIF_1926,Credit,Credit Gold,Visa,None,2025-02-13
+CARD_0927,CIF_1927,Credit,Credit Gold,Visa,Privilege Customer,2025-04-25
+CARD_0928,CIF_1928,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-03-07
+CARD_0929,CIF_1929,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-11-11
+CARD_0930,CIF_1930,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-02-05
+CARD_0931,CIF_1931,Debit,Debit Digi,Visa,None,2025-12-11
+CARD_0932,CIF_1932,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-10-06
+CARD_0933,CIF_1933,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-01-25
+CARD_0934,CIF_1934,Credit,Credit Platinum Cashback,Visa,None,2025-09-09
+CARD_0935,CIF_1935,Credit,Credit Infinite,Visa,Privilege Customer,2025-10-13
+CARD_0936,CIF_1936,Debit,Debit Lotusmiles Virtual,Visa,None,2025-02-24
+CARD_0937,CIF_1937,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-05-29
+CARD_0938,CIF_1938,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-03-03
+CARD_0939,CIF_1939,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-09-28
+CARD_0940,CIF_1940,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-11-10
+CARD_0941,CIF_1941,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-10-22
+CARD_0942,CIF_1942,Debit,Debit Digi,Visa,Privilege Customer,2025-07-13
+CARD_0943,CIF_1943,Debit,Debit Classic,Visa,UUTIEN Customer,2025-10-18
+CARD_0944,CIF_1944,Debit,Debit Digi,Visa,None,2025-09-22
+CARD_0945,CIF_1945,Credit,Credit Signature Privilege,Visa,None,2025-12-27
+CARD_0946,CIF_1946,Debit,Debit Digi,Visa,Privilege Customer,2025-06-16
+CARD_0947,CIF_1947,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-02-12
+CARD_0948,CIF_1948,Debit,Debit Lotusmiles Virtual,Visa,None,2025-05-14
+CARD_0949,CIF_1949,Debit,Debit Lotusmiles Virtual,Visa,None,2025-04-01
+CARD_0950,CIF_1950,Credit,Credit Gold,Visa,None,2025-06-04
+CARD_0951,CIF_1951,Debit,Debit Digi,Visa,Privilege Customer,2025-09-29
+CARD_0952,CIF_1952,Credit,Credit Gold,Visa,None,2025-12-09
+CARD_0953,CIF_1953,Debit,Debit Digi,Visa,Privilege Customer,2025-10-29
+CARD_0954,CIF_1954,Debit,Debit Privilege Signature,Visa,None,2025-07-05
+CARD_0955,CIF_1955,Credit,Credit Gold,Visa,None,2025-07-21
+CARD_0956,CIF_1956,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-05-10
+CARD_0957,CIF_1957,Debit,Debit Classic,Visa,UUTIEN Customer,2025-02-27
+CARD_0958,CIF_1958,Credit,Credit Platinum Cashback,Visa,None,2025-09-19
+CARD_0959,CIF_1959,Credit,Credit Signature Privilege,Visa,None,2025-12-25
+CARD_0960,CIF_1960,Debit,Debit Digi,Visa,Privilege Customer,2025-06-11
+CARD_0961,CIF_1961,Credit,Credit Infinite,Visa,Privilege Customer,2025-04-15
+CARD_0962,CIF_1962,Debit,Debit Classic,Visa,None,2025-10-02
+CARD_0963,CIF_1963,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-12-27
+CARD_0964,CIF_1964,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-08-22
+CARD_0965,CIF_1965,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-06-02
+CARD_0966,CIF_1966,Debit,Debit Classic,Visa,UUTIEN Customer,2025-06-19
+CARD_0967,CIF_1967,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-10-02
+CARD_0968,CIF_1968,Credit,Credit Infinite,Visa,None,2025-10-04
+CARD_0969,CIF_1969,Debit,Debit Digi,Visa,None,2025-10-06
+CARD_0970,CIF_1970,Credit,Credit Gold,Visa,None,2025-07-01
+CARD_0971,CIF_1971,Debit,Debit Digi,Visa,None,2025-07-01
+CARD_0972,CIF_1972,Credit,Credit Gold,Visa,UUTIEN Customer,2025-05-08
+CARD_0973,CIF_1973,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-05-22
+CARD_0974,CIF_1974,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-12-01
+CARD_0975,CIF_1975,Credit,Credit Infinite,Visa,None,2025-06-26
+CARD_0976,CIF_1976,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-03-18
+CARD_0977,CIF_1977,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-11-15
+CARD_0978,CIF_1978,Debit,Debit Classic,Visa,UUTIEN Customer,2025-11-01
+CARD_0979,CIF_1979,Debit,Debit Digi,Visa,Privilege Customer,2025-07-26
+CARD_0980,CIF_1980,Debit,Debit Privilege Signature,Visa,None,2025-04-14
+CARD_0981,CIF_1981,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-02-02
+CARD_0982,CIF_1982,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-01-01
+CARD_0983,CIF_1983,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-06-28
+CARD_0984,CIF_1984,Credit,Credit Gold,Visa,None,2025-03-18
+CARD_0985,CIF_1985,Credit,Credit Infinite,Visa,Privilege Customer,2025-10-05
+CARD_0986,CIF_1986,Debit,Debit Digi,Visa,None,2025-12-01
+CARD_0987,CIF_1987,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-02-05
+CARD_0988,CIF_1988,Credit,Credit Gold,Visa,None,2025-12-26
+CARD_0989,CIF_1989,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-09-07
+CARD_0990,CIF_1990,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-01-21
+CARD_0991,CIF_1991,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-02-23
+CARD_0992,CIF_1992,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-11-12
+CARD_0993,CIF_1993,Debit,Debit Classic,Visa,Privilege Customer,2025-04-24
+CARD_0994,CIF_1994,Credit,Credit Gold,Visa,None,2025-11-25
+CARD_0995,CIF_1995,Credit,Credit Infinite,Visa,None,2025-10-17
+CARD_0996,CIF_1996,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-09-24
+CARD_0997,CIF_1997,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-11-05
+CARD_0998,CIF_1998,Debit,Debit Privilege Signature,Visa,None,2025-11-29
+CARD_0999,CIF_1999,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-12-21
+CARD_1000,CIF_2000,Debit,Debit Lotusmiles Virtual,Visa,None,2025-01-24
+CARD_1001,CIF_2001,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-08-27
+CARD_1002,CIF_2002,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-08-12
+CARD_1003,CIF_2003,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-07-23
+CARD_1004,CIF_2004,Debit,Debit Classic,Visa,Privilege Customer,2025-08-26
+CARD_1005,CIF_2005,Credit,Credit Gold,Visa,UUTIEN Customer,2025-12-23
+CARD_1006,CIF_2006,Credit,Credit Infinite,Visa,None,2025-06-25
+CARD_1007,CIF_2007,Debit,Debit Digi,Visa,None,2025-08-05
+CARD_1008,CIF_2008,Debit,Debit Privilege Signature,Visa,None,2025-02-04
+CARD_1009,CIF_2009,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-03-05
+CARD_1010,CIF_2010,Debit,Debit Digi,Visa,Privilege Customer,2025-01-08
+CARD_1011,CIF_2011,Credit,Credit Signature Privilege,Visa,None,2025-12-14
+CARD_1012,CIF_2012,Debit,Debit Classic,Visa,UUTIEN Customer,2025-02-14
+CARD_1013,CIF_2013,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-07-25
+CARD_1014,CIF_2014,Credit,Credit Infinite,Visa,Privilege Customer,2025-12-22
+CARD_1015,CIF_2015,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-01-07
+CARD_1016,CIF_2016,Credit,Credit Gold,Visa,UUTIEN Customer,2025-04-16
+CARD_1017,CIF_2017,Debit,Debit Digi,Visa,Privilege Customer,2025-01-09
+CARD_1018,CIF_2018,Credit,Credit Gold,Visa,UUTIEN Customer,2025-06-04
+CARD_1019,CIF_2019,Debit,Debit Classic,Visa,Privilege Customer,2025-11-30
+CARD_1020,CIF_2020,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-06-25
+CARD_1021,CIF_2021,Credit,Credit Infinite,Visa,Privilege Customer,2025-04-25
+CARD_1022,CIF_2022,Debit,Debit Classic,Visa,None,2025-01-26
+CARD_1023,CIF_2023,Credit,Credit Signature Privilege,Visa,None,2025-04-10
+CARD_1024,CIF_2024,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-02-11
+CARD_1025,CIF_2025,Debit,Debit Digi,Visa,UUTIEN Customer,2025-06-08
+CARD_1026,CIF_2026,Debit,Debit Privilege Signature,Visa,None,2025-04-09
+CARD_1027,CIF_2027,Credit,Credit Gold,Visa,Privilege Customer,2025-12-30
+CARD_1028,CIF_2028,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-02-18
+CARD_1029,CIF_2029,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-10-26
+CARD_1030,CIF_2030,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-12-28
+CARD_1031,CIF_2031,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-08-04
+CARD_1032,CIF_2032,Credit,Credit Gold,Visa,Privilege Customer,2025-12-21
+CARD_1033,CIF_2033,Debit,Debit Digi,Visa,Privilege Customer,2025-02-15
+CARD_1034,CIF_2034,Credit,Credit Signature Privilege,Visa,None,2025-01-11
+CARD_1035,CIF_2035,Credit,Credit Gold,Visa,Privilege Customer,2025-09-10
+CARD_1036,CIF_2036,Debit,Debit Classic,Visa,Privilege Customer,2025-10-02
+CARD_1037,CIF_2037,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-12-19
+CARD_1038,CIF_2038,Debit,Debit Digi,Visa,Privilege Customer,2025-06-23
+CARD_1039,CIF_2039,Credit,Credit Gold,Visa,None,2025-06-16
+CARD_1040,CIF_2040,Credit,Credit Platinum Cashback,Visa,None,2025-10-11
+CARD_1041,CIF_2041,Debit,Debit Classic,Visa,None,2025-01-25
+CARD_1042,CIF_2042,Debit,Debit Digi,Visa,None,2025-08-01
+CARD_1043,CIF_2043,Credit,Credit Signature Privilege,Visa,None,2025-01-24
+CARD_1044,CIF_2044,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-02-09
+CARD_1045,CIF_2045,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-10-14
+CARD_1046,CIF_2046,Debit,Debit Lotusmiles Virtual,Visa,None,2025-08-22
+CARD_1047,CIF_2047,Debit,Debit Digi,Visa,Privilege Customer,2025-04-08
+CARD_1048,CIF_2048,Credit,Credit Infinite,Visa,Privilege Customer,2025-03-03
+CARD_1049,CIF_2049,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-01-18
+CARD_1050,CIF_2050,Credit,Credit Platinum Cashback,Visa,None,2025-10-24
+CARD_1051,CIF_2051,Credit,Credit Gold,Visa,Privilege Customer,2025-10-22
+CARD_1052,CIF_2052,Credit,Credit Infinite,Visa,Privilege Customer,2025-02-21
+CARD_1053,CIF_2053,Credit,Credit Infinite,Visa,Privilege Customer,2025-08-31
+CARD_1054,CIF_2054,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-01-14
+CARD_1055,CIF_2055,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-01-14
+CARD_1056,CIF_2056,Credit,Credit Infinite,Visa,None,2025-02-08
+CARD_1057,CIF_2057,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-05-28
+CARD_1058,CIF_2058,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-04-29
+CARD_1059,CIF_2059,Credit,Credit Signature Privilege,Visa,None,2025-08-11
+CARD_1060,CIF_2060,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-04-23
+CARD_1061,CIF_2061,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-04-25
+CARD_1062,CIF_2062,Debit,Debit Privilege Signature,Visa,None,2025-08-04
+CARD_1063,CIF_2063,Credit,Credit Platinum Cashback,Visa,None,2025-06-08
+CARD_1064,CIF_2064,Credit,Credit Gold,Visa,None,2025-04-08
+CARD_1065,CIF_2065,Debit,Debit Classic,Visa,Privilege Customer,2025-06-05
+CARD_1066,CIF_2066,Debit,Debit Digi,Visa,UUTIEN Customer,2025-04-25
+CARD_1067,CIF_2067,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-08-11
+CARD_1068,CIF_2068,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-05-29
+CARD_1069,CIF_2069,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-05-29
+CARD_1070,CIF_2070,Debit,Debit Digi,Visa,UUTIEN Customer,2025-07-07
+CARD_1071,CIF_2071,Credit,Credit Infinite,Visa,None,2025-04-22
+CARD_1072,CIF_2072,Credit,Credit Infinite,Visa,Privilege Customer,2025-07-19
+CARD_1073,CIF_2073,Credit,Credit Infinite,Visa,None,2025-01-03
+CARD_1074,CIF_2074,Debit,Debit Classic,Visa,None,2025-04-06
+CARD_1075,CIF_2075,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-03-24
+CARD_1076,CIF_2076,Debit,Debit Classic,Visa,UUTIEN Customer,2025-10-24
+CARD_1077,CIF_2077,Debit,Debit Digi,Visa,None,2025-11-29
+CARD_1078,CIF_2078,Credit,Credit Infinite,Visa,Privilege Customer,2025-12-05
+CARD_1079,CIF_2079,Credit,Credit Signature Privilege,Visa,None,2025-07-28
+CARD_1080,CIF_2080,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-01-25
+CARD_1081,CIF_2081,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-08-13
+CARD_1082,CIF_2082,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-12-19
+CARD_1083,CIF_2083,Debit,Debit Lotusmiles Virtual,Visa,None,2025-07-02
+CARD_1084,CIF_2084,Debit,Debit Digi,Visa,UUTIEN Customer,2025-03-07
+CARD_1085,CIF_2085,Credit,Credit Signature Privilege,Visa,None,2025-07-06
+CARD_1086,CIF_2086,Debit,Debit Classic,Visa,None,2025-12-04
+CARD_1087,CIF_2087,Debit,Debit Digi,Visa,UUTIEN Customer,2025-12-02
+CARD_1088,CIF_2088,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-10-18
+CARD_1089,CIF_2089,Debit,Debit Digi,Visa,None,2025-10-25
+CARD_1090,CIF_2090,Debit,Debit Lotusmiles Virtual,Visa,None,2025-09-29
+CARD_1091,CIF_2091,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-07-26
+CARD_1092,CIF_2092,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-04-01
+CARD_1093,CIF_2093,Debit,Debit Classic,Visa,None,2025-12-17
+CARD_1094,CIF_2094,Credit,Credit Infinite,Visa,None,2025-06-23
+CARD_1095,CIF_2095,Debit,Debit Digi,Visa,UUTIEN Customer,2025-02-17
+CARD_1096,CIF_2096,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-02-19
+CARD_1097,CIF_2097,Debit,Debit Classic,Visa,None,2025-10-05
+CARD_1098,CIF_2098,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-06-06
+CARD_1099,CIF_2099,Credit,Credit Gold,Visa,Privilege Customer,2025-05-25
+CARD_1100,CIF_2100,Credit,Credit Gold,Visa,UUTIEN Customer,2025-06-18
+CARD_1101,CIF_2101,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-01-25
+CARD_1102,CIF_2102,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-02-03
+CARD_1103,CIF_2103,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-03-11
+CARD_1104,CIF_2104,Credit,Credit Gold,Visa,None,2025-07-21
+CARD_1105,CIF_2105,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-07-25
+CARD_1106,CIF_2106,Debit,Debit Privilege Signature,Visa,None,2025-05-10
+CARD_1107,CIF_2107,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-03-31
+CARD_1108,CIF_2108,Credit,Credit Platinum Cashback,Visa,None,2025-11-18
+CARD_1109,CIF_2109,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-03-03
+CARD_1110,CIF_2110,Credit,Credit Gold,Visa,UUTIEN Customer,2025-05-26
+CARD_1111,CIF_2111,Credit,Credit Infinite,Visa,None,2025-12-15
+CARD_1112,CIF_2112,Debit,Debit Classic,Visa,Privilege Customer,2025-07-01
+CARD_1113,CIF_2113,Debit,Debit Lotusmiles Virtual,Visa,None,2025-12-02
+CARD_1114,CIF_2114,Credit,Credit Infinite,Visa,Privilege Customer,2025-06-27
+CARD_1115,CIF_2115,Debit,Debit Digi,Visa,None,2025-06-06
+CARD_1116,CIF_2116,Debit,Debit Classic,Visa,Privilege Customer,2025-12-09
+CARD_1117,CIF_2117,Credit,Credit Gold,Visa,UUTIEN Customer,2025-11-10
+CARD_1118,CIF_2118,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-02-23
+CARD_1119,CIF_2119,Credit,Credit Gold,Visa,Privilege Customer,2025-04-07
+CARD_1120,CIF_2120,Credit,Credit Gold,Visa,UUTIEN Customer,2025-02-21
+CARD_1121,CIF_2121,Debit,Debit Digi,Visa,None,2025-11-03
+CARD_1122,CIF_2122,Debit,Debit Lotusmiles Virtual,Visa,None,2025-12-03
+CARD_1123,CIF_2123,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-02-17
+CARD_1124,CIF_2124,Credit,Credit Gold,Visa,None,2025-10-21
+CARD_1125,CIF_2125,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-10-28
+CARD_1126,CIF_2126,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-06-13
+CARD_1127,CIF_2127,Debit,Debit Classic,Visa,Privilege Customer,2025-05-27
+CARD_1128,CIF_2128,Credit,Credit Platinum Cashback,Visa,None,2025-06-25
+CARD_1129,CIF_2129,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-02-19
+CARD_1130,CIF_2130,Debit,Debit Lotusmiles Virtual,Visa,None,2025-01-16
+CARD_1131,CIF_2131,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-05-09
+CARD_1132,CIF_2132,Debit,Debit Classic,Visa,UUTIEN Customer,2025-11-15
+CARD_1133,CIF_2133,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-11-03
+CARD_1134,CIF_2134,Debit,Debit Classic,Visa,Privilege Customer,2025-10-30
+CARD_1135,CIF_2135,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-10-24
+CARD_1136,CIF_2136,Debit,Debit Privilege Signature,Visa,None,2025-11-06
+CARD_1137,CIF_2137,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-01-02
+CARD_1138,CIF_2138,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-11-25
+CARD_1139,CIF_2139,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-06-09
+CARD_1140,CIF_2140,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-05-09
+CARD_1141,CIF_2141,Credit,Credit Infinite,Visa,None,2025-09-22
+CARD_1142,CIF_2142,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-09-04
+CARD_1143,CIF_2143,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-05-06
+CARD_1144,CIF_2144,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-05-27
+CARD_1145,CIF_2145,Credit,Credit Gold,Visa,Privilege Customer,2025-12-08
+CARD_1146,CIF_2146,Debit,Debit Classic,Visa,UUTIEN Customer,2025-01-11
+CARD_1147,CIF_2147,Debit,Debit Lotusmiles Virtual,Visa,None,2025-04-28
+CARD_1148,CIF_2148,Credit,Credit Platinum Cashback,Visa,None,2025-06-01
+CARD_1149,CIF_2149,Credit,Credit Signature Privilege,Visa,None,2025-11-18
+CARD_1150,CIF_2150,Debit,Debit Classic,Visa,UUTIEN Customer,2025-01-08
+CARD_1151,CIF_2151,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-03-30
+CARD_1152,CIF_2152,Debit,Debit Classic,Visa,Privilege Customer,2025-05-09
+CARD_1153,CIF_2153,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-03-20
+CARD_1154,CIF_2154,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-06-26
+CARD_1155,CIF_2155,Credit,Credit Gold,Visa,None,2025-05-18
+CARD_1156,CIF_2156,Credit,Credit Gold,Visa,None,2025-03-20
+CARD_1157,CIF_2157,Credit,Credit Gold,Visa,Privilege Customer,2025-08-25
+CARD_1158,CIF_2158,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-04-30
+CARD_1159,CIF_2159,Debit,Debit Privilege Signature,Visa,None,2025-06-08
+CARD_1160,CIF_2160,Credit,Credit Platinum Cashback,Visa,None,2025-06-08
+CARD_1161,CIF_2161,Credit,Credit Platinum Cashback,Visa,None,2025-11-24
+CARD_1162,CIF_2162,Debit,Debit Digi,Visa,UUTIEN Customer,2025-09-19
+CARD_1163,CIF_2163,Credit,Credit Gold,Visa,Privilege Customer,2025-08-05
+CARD_1164,CIF_2164,Debit,Debit Classic,Visa,Privilege Customer,2025-11-07
+CARD_1165,CIF_2165,Debit,Debit Digi,Visa,UUTIEN Customer,2025-08-21
+CARD_1166,CIF_2166,Debit,Debit Classic,Visa,None,2025-11-03
+CARD_1167,CIF_2167,Debit,Debit Lotusmiles Virtual,Visa,None,2025-11-22
+CARD_1168,CIF_2168,Debit,Debit Digi,Visa,None,2025-07-14
+CARD_1169,CIF_2169,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-08-25
+CARD_1170,CIF_2170,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-12-30
+CARD_1171,CIF_2171,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-09-07
+CARD_1172,CIF_2172,Debit,Debit Digi,Visa,None,2025-09-03
+CARD_1173,CIF_2173,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-05-26
+CARD_1174,CIF_2174,Credit,Credit Infinite,Visa,None,2025-11-16
+CARD_1175,CIF_2175,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-04-22
+CARD_1176,CIF_2176,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-11-25
+CARD_1177,CIF_2177,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-12-23
+CARD_1178,CIF_2178,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-05-26
+CARD_1179,CIF_2179,Credit,Credit Infinite,Visa,Privilege Customer,2025-07-26
+CARD_1180,CIF_2180,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-04-25
+CARD_1181,CIF_2181,Credit,Credit Gold,Visa,UUTIEN Customer,2025-12-19
+CARD_1182,CIF_2182,Credit,Credit Gold,Visa,None,2025-03-06
+CARD_1183,CIF_2183,Credit,Credit Signature Privilege,Visa,None,2025-04-20
+CARD_1184,CIF_2184,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-09-16
+CARD_1185,CIF_2185,Credit,Credit Platinum Cashback,Visa,None,2025-11-17
+CARD_1186,CIF_2186,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-10-10
+CARD_1187,CIF_2187,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-10-16
+CARD_1188,CIF_2188,Debit,Debit Digi,Visa,Privilege Customer,2025-07-30
+CARD_1189,CIF_2189,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-09-21
+CARD_1190,CIF_2190,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-05-04
+CARD_1191,CIF_2191,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-11-24
+CARD_1192,CIF_2192,Debit,Debit Privilege Signature,Visa,None,2025-12-10
+CARD_1193,CIF_2193,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-08-26
+CARD_1194,CIF_2194,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-11-07
+CARD_1195,CIF_2195,Debit,Debit Digi,Visa,UUTIEN Customer,2025-01-19
+CARD_1196,CIF_2196,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-06-15
+CARD_1197,CIF_2197,Debit,Debit Classic,Visa,Privilege Customer,2025-04-08
+CARD_1198,CIF_2198,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-04-19
+CARD_1199,CIF_2199,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-03-09
+CARD_1200,CIF_2200,Debit,Debit Digi,Visa,Privilege Customer,2025-02-27
+CARD_1201,CIF_2201,Credit,Credit Gold,Visa,None,2025-05-16
+CARD_1202,CIF_2202,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-08-12
+CARD_1203,CIF_2203,Credit,Credit Gold,Visa,Privilege Customer,2025-10-11
+CARD_1204,CIF_2204,Debit,Debit Classic,Visa,Privilege Customer,2025-06-01
+CARD_1205,CIF_2205,Debit,Debit Digi,Visa,UUTIEN Customer,2025-05-14
+CARD_1206,CIF_2206,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-04-13
+CARD_1207,CIF_2207,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-11-09
+CARD_1208,CIF_2208,Debit,Debit Classic,Visa,UUTIEN Customer,2025-03-13
+CARD_1209,CIF_2209,Debit,Debit Lotusmiles Virtual,Visa,None,2025-08-23
+CARD_1210,CIF_2210,Debit,Debit Privilege Signature,Visa,None,2025-05-12
+CARD_1211,CIF_2211,Debit,Debit Classic,Visa,UUTIEN Customer,2025-09-28
+CARD_1212,CIF_2212,Debit,Debit Classic,Visa,Privilege Customer,2025-12-01
+CARD_1213,CIF_2213,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-02-03
+CARD_1214,CIF_2214,Debit,Debit Privilege Signature,Visa,None,2025-11-05
+CARD_1215,CIF_2215,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-04-06
+CARD_1216,CIF_2216,Debit,Debit Classic,Visa,UUTIEN Customer,2025-02-03
+CARD_1217,CIF_2217,Credit,Credit Infinite,Visa,None,2025-10-30
+CARD_1218,CIF_2218,Debit,Debit Classic,Visa,Privilege Customer,2025-06-24
+CARD_1219,CIF_2219,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-05-07
+CARD_1220,CIF_2220,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-06-30
+CARD_1221,CIF_2221,Credit,Credit Infinite,Visa,Privilege Customer,2025-08-31
+CARD_1222,CIF_2222,Credit,Credit Gold,Visa,UUTIEN Customer,2025-08-01
+CARD_1223,CIF_2223,Credit,Credit Signature Privilege,Visa,None,2025-06-14
+CARD_1224,CIF_2224,Credit,Credit Platinum Cashback,Visa,None,2025-01-01
+CARD_1225,CIF_2225,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-10-15
+CARD_1226,CIF_2226,Credit,Credit Gold,Visa,UUTIEN Customer,2025-01-27
+CARD_1227,CIF_2227,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-08-09
+CARD_1228,CIF_2228,Debit,Debit Digi,Visa,Privilege Customer,2025-01-16
+CARD_1229,CIF_2229,Debit,Debit Classic,Visa,Privilege Customer,2025-10-15
+CARD_1230,CIF_2230,Debit,Debit Privilege Signature,Visa,None,2025-06-24
+CARD_1231,CIF_2231,Debit,Debit Classic,Visa,None,2025-04-27
+CARD_1232,CIF_2232,Debit,Debit Classic,Visa,UUTIEN Customer,2025-10-22
+CARD_1233,CIF_2233,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-08-18
+CARD_1234,CIF_2234,Credit,Credit Gold,Visa,None,2025-10-18
+CARD_1235,CIF_2235,Debit,Debit Digi,Visa,Privilege Customer,2025-10-26
+CARD_1236,CIF_2236,Credit,Credit Gold,Visa,None,2025-05-29
+CARD_1237,CIF_2237,Debit,Debit Digi,Visa,Privilege Customer,2025-01-09
+CARD_1238,CIF_2238,Debit,Debit Digi,Visa,UUTIEN Customer,2025-06-04
+CARD_1239,CIF_2239,Credit,Credit Signature Privilege,Visa,None,2025-07-18
+CARD_1240,CIF_2240,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-10-12
+CARD_1241,CIF_2241,Debit,Debit Classic,Visa,None,2025-03-29
+CARD_1242,CIF_2242,Debit,Debit Classic,Visa,UUTIEN Customer,2025-11-13
+CARD_1243,CIF_2243,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-10-16
+CARD_1244,CIF_2244,Credit,Credit Gold,Visa,UUTIEN Customer,2025-08-14
+CARD_1245,CIF_2245,Debit,Debit Classic,Visa,None,2025-06-03
+CARD_1246,CIF_2246,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-09-15
+CARD_1247,CIF_2247,Debit,Debit Digi,Visa,None,2025-07-31
+CARD_1248,CIF_2248,Debit,Debit Privilege Signature,Visa,None,2025-12-10
+CARD_1249,CIF_2249,Credit,Credit Gold,Visa,UUTIEN Customer,2025-07-20
+CARD_1250,CIF_2250,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-06-30
+CARD_1251,CIF_2251,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-04-01
+CARD_1252,CIF_2252,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-07-09
+CARD_1253,CIF_2253,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-04-23
+CARD_1254,CIF_2254,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-12-28
+CARD_1255,CIF_2255,Credit,Credit Gold,Visa,Privilege Customer,2025-10-12
+CARD_1256,CIF_2256,Credit,Credit Infinite,Visa,Privilege Customer,2025-12-26
+CARD_1257,CIF_2257,Credit,Credit Gold,Visa,Privilege Customer,2025-04-04
+CARD_1258,CIF_2258,Debit,Debit Digi,Visa,Privilege Customer,2025-03-02
+CARD_1259,CIF_2259,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-04-03
+CARD_1260,CIF_2260,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-12-15
+CARD_1261,CIF_2261,Debit,Debit Classic,Visa,UUTIEN Customer,2025-05-11
+CARD_1262,CIF_2262,Debit,Debit Digi,Visa,Privilege Customer,2025-07-28
+CARD_1263,CIF_2263,Credit,Credit Gold,Visa,UUTIEN Customer,2025-01-24
+CARD_1264,CIF_2264,Debit,Debit Classic,Visa,UUTIEN Customer,2025-11-08
+CARD_1265,CIF_2265,Credit,Credit Infinite,Visa,None,2025-02-18
+CARD_1266,CIF_2266,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-03-02
+CARD_1267,CIF_2267,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-08-18
+CARD_1268,CIF_2268,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-03-28
+CARD_1269,CIF_2269,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-04-10
+CARD_1270,CIF_2270,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-01-14
+CARD_1271,CIF_2271,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-07-02
+CARD_1272,CIF_2272,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-09-02
+CARD_1273,CIF_2273,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-12-25
+CARD_1274,CIF_2274,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-12-27
+CARD_1275,CIF_2275,Debit,Debit Digi,Visa,Privilege Customer,2025-07-14
+CARD_1276,CIF_2276,Credit,Credit Infinite,Visa,Privilege Customer,2025-05-26
+CARD_1277,CIF_2277,Credit,Credit Gold,Visa,UUTIEN Customer,2025-12-16
+CARD_1278,CIF_2278,Credit,Credit Signature Privilege,Visa,None,2025-08-31
+CARD_1279,CIF_2279,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-11-23
+CARD_1280,CIF_2280,Debit,Debit Lotusmiles Virtual,Visa,None,2025-10-27
+CARD_1281,CIF_2281,Credit,Credit Infinite,Visa,Privilege Customer,2025-07-02
+CARD_1282,CIF_2282,Debit,Debit Privilege Signature,Visa,None,2025-06-14
+CARD_1283,CIF_2283,Debit,Debit Digi,Visa,Privilege Customer,2025-06-16
+CARD_1284,CIF_2284,Credit,Credit Signature Privilege,Visa,None,2025-02-28
+CARD_1285,CIF_2285,Debit,Debit Classic,Visa,Privilege Customer,2025-12-02
+CARD_1286,CIF_2286,Debit,Debit Privilege Signature,Visa,None,2025-01-03
+CARD_1287,CIF_2287,Debit,Debit Lotusmiles Virtual,Visa,None,2025-12-14
+CARD_1288,CIF_2288,Credit,Credit Signature Privilege,Visa,None,2025-12-31
+CARD_1289,CIF_2289,Debit,Debit Digi,Visa,UUTIEN Customer,2025-03-25
+CARD_1290,CIF_2290,Credit,Credit Gold,Visa,Privilege Customer,2025-04-18
+CARD_1291,CIF_2291,Debit,Debit Digi,Visa,UUTIEN Customer,2025-07-28
+CARD_1292,CIF_2292,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-08-21
+CARD_1293,CIF_2293,Credit,Credit Infinite,Visa,Privilege Customer,2025-01-09
+CARD_1294,CIF_2294,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-10-03
+CARD_1295,CIF_2295,Credit,Credit Infinite,Visa,None,2025-09-28
+CARD_1296,CIF_2296,Debit,Debit Classic,Visa,Privilege Customer,2025-09-04
+CARD_1297,CIF_2297,Credit,Credit Gold,Visa,Privilege Customer,2025-10-12
+CARD_1298,CIF_2298,Credit,Credit Infinite,Visa,None,2025-06-29
+CARD_1299,CIF_2299,Credit,Credit Gold,Visa,UUTIEN Customer,2025-07-16
+CARD_1300,CIF_2300,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-12-23
+CARD_1301,CIF_2301,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-07-25
+CARD_1302,CIF_2302,Credit,Credit Signature Privilege,Visa,None,2025-05-14
+CARD_1303,CIF_2303,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-09-13
+CARD_1304,CIF_2304,Debit,Debit Digi,Visa,UUTIEN Customer,2025-08-29
+CARD_1305,CIF_2305,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-09-28
+CARD_1306,CIF_2306,Debit,Debit Digi,Visa,Privilege Customer,2025-12-29
+CARD_1307,CIF_2307,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-11-28
+CARD_1308,CIF_2308,Credit,Credit Gold,Visa,None,2025-07-20
+CARD_1309,CIF_2309,Credit,Credit Platinum Cashback,Visa,None,2025-05-27
+CARD_1310,CIF_2310,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-11-07
+CARD_1311,CIF_2311,Credit,Credit Infinite,Visa,None,2025-09-13
+CARD_1312,CIF_2312,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-11-22
+CARD_1313,CIF_2313,Debit,Debit Classic,Visa,Privilege Customer,2025-07-27
+CARD_1314,CIF_2314,Credit,Credit Infinite,Visa,None,2025-08-16
+CARD_1315,CIF_2315,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-11-24
+CARD_1316,CIF_2316,Credit,Credit Signature Privilege,Visa,None,2025-05-02
+CARD_1317,CIF_2317,Debit,Debit Classic,Visa,Privilege Customer,2025-06-24
+CARD_1318,CIF_2318,Credit,Credit Infinite,Visa,None,2025-01-02
+CARD_1319,CIF_2319,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-04-17
+CARD_1320,CIF_2320,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-05-08
+CARD_1321,CIF_2321,Debit,Debit Digi,Visa,UUTIEN Customer,2025-03-14
+CARD_1322,CIF_2322,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-03-24
+CARD_1323,CIF_2323,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-04-23
+CARD_1324,CIF_2324,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-10-14
+CARD_1325,CIF_2325,Debit,Debit Digi,Visa,Privilege Customer,2025-11-04
+CARD_1326,CIF_2326,Credit,Credit Gold,Visa,UUTIEN Customer,2025-10-11
+CARD_1327,CIF_2327,Debit,Debit Classic,Visa,UUTIEN Customer,2025-02-13
+CARD_1328,CIF_2328,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-05-13
+CARD_1329,CIF_2329,Credit,Credit Platinum Cashback,Visa,None,2025-07-11
+CARD_1330,CIF_2330,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-01-14
+CARD_1331,CIF_2331,Debit,Debit Classic,Visa,Privilege Customer,2025-11-04
+CARD_1332,CIF_2332,Debit,Debit Lotusmiles Virtual,Visa,None,2025-12-16
+CARD_1333,CIF_2333,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-08-19
+CARD_1334,CIF_2334,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-11-06
+CARD_1335,CIF_2335,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-12-03
+CARD_1336,CIF_2336,Credit,Credit Signature Privilege,Visa,None,2025-02-02
+CARD_1337,CIF_2337,Credit,Credit Gold,Visa,UUTIEN Customer,2025-08-29
+CARD_1338,CIF_2338,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-09-13
+CARD_1339,CIF_2339,Credit,Credit Gold,Visa,UUTIEN Customer,2025-01-11
+CARD_1340,CIF_2340,Debit,Debit Digi,Visa,None,2025-01-11
+CARD_1341,CIF_2341,Debit,Debit Digi,Visa,Privilege Customer,2025-05-04
+CARD_1342,CIF_2342,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-11-17
+CARD_1343,CIF_2343,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-12-26
+CARD_1344,CIF_2344,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-02-08
+CARD_1345,CIF_2345,Debit,Debit Digi,Visa,None,2025-02-21
+CARD_1346,CIF_2346,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-03-27
+CARD_1347,CIF_2347,Debit,Debit Classic,Visa,None,2025-09-28
+CARD_1348,CIF_2348,Debit,Debit Classic,Visa,UUTIEN Customer,2025-12-16
+CARD_1349,CIF_2349,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-11-04
+CARD_1350,CIF_2350,Credit,Credit Signature Privilege,Visa,None,2025-06-19
+CARD_1351,CIF_2351,Credit,Credit Gold,Visa,UUTIEN Customer,2025-02-17
+CARD_1352,CIF_2352,Debit,Debit Lotusmiles Virtual,Visa,None,2025-01-22
+CARD_1353,CIF_2353,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-02-10
+CARD_1354,CIF_2354,Debit,Debit Privilege Signature,Visa,None,2025-07-06
+CARD_1355,CIF_2355,Debit,Debit Digi,Visa,UUTIEN Customer,2025-07-14
+CARD_1356,CIF_2356,Credit,Credit Gold,Visa,UUTIEN Customer,2025-02-25
+CARD_1357,CIF_2357,Debit,Debit Classic,Visa,Privilege Customer,2025-06-11
+CARD_1358,CIF_2358,Debit,Debit Digi,Visa,Privilege Customer,2025-09-22
+CARD_1359,CIF_2359,Credit,Credit Gold,Visa,Privilege Customer,2025-07-08
+CARD_1360,CIF_2360,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-09-13
+CARD_1361,CIF_2361,Credit,Credit Infinite,Visa,Privilege Customer,2025-01-22
+CARD_1362,CIF_2362,Debit,Debit Privilege Signature,Visa,None,2025-01-10
+CARD_1363,CIF_2363,Credit,Credit Gold,Visa,UUTIEN Customer,2025-06-21
+CARD_1364,CIF_2364,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-03-12
+CARD_1365,CIF_2365,Debit,Debit Privilege Signature,Visa,None,2025-05-17
+CARD_1366,CIF_2366,Credit,Credit Platinum Cashback,Visa,None,2025-09-16
+CARD_1367,CIF_2367,Credit,Credit Signature Privilege,Visa,None,2025-11-13
+CARD_1368,CIF_2368,Credit,Credit Infinite,Visa,None,2025-07-14
+CARD_1369,CIF_2369,Debit,Debit Classic,Visa,UUTIEN Customer,2025-05-30
+CARD_1370,CIF_2370,Debit,Debit Lotusmiles Virtual,Visa,None,2025-09-16
+CARD_1371,CIF_2371,Debit,Debit Lotusmiles Virtual,Visa,None,2025-12-24
+CARD_1372,CIF_2372,Debit,Debit Digi,Visa,UUTIEN Customer,2025-12-26
+CARD_1373,CIF_2373,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-06-30
+CARD_1374,CIF_2374,Debit,Debit Lotusmiles Virtual,Visa,None,2025-01-31
+CARD_1375,CIF_2375,Debit,Debit Lotusmiles Virtual,Visa,None,2025-10-01
+CARD_1376,CIF_2376,Debit,Debit Digi,Visa,UUTIEN Customer,2025-01-01
+CARD_1377,CIF_2377,Credit,Credit Gold,Visa,Privilege Customer,2025-01-23
+CARD_1378,CIF_2378,Debit,Debit Privilege Signature,Visa,None,2025-04-14
+CARD_1379,CIF_2379,Debit,Debit Classic,Visa,UUTIEN Customer,2025-07-30
+CARD_1380,CIF_2380,Credit,Credit Platinum Cashback,Visa,None,2025-11-14
+CARD_1381,CIF_2381,Debit,Debit Lotusmiles Virtual,Visa,None,2025-07-27
+CARD_1382,CIF_2382,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-09-28
+CARD_1383,CIF_2383,Debit,Debit Privilege Signature,Visa,None,2025-10-12
+CARD_1384,CIF_2384,Credit,Credit Gold,Visa,UUTIEN Customer,2025-05-03
+CARD_1385,CIF_2385,Debit,Debit Privilege Signature,Visa,None,2025-12-21
+CARD_1386,CIF_2386,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-11-19
+CARD_1387,CIF_2387,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-10-14
+CARD_1388,CIF_2388,Debit,Debit Classic,Visa,None,2025-04-11
+CARD_1389,CIF_2389,Credit,Credit Gold,Visa,Privilege Customer,2025-08-09
+CARD_1390,CIF_2390,Credit,Credit Gold,Visa,UUTIEN Customer,2025-10-03
+CARD_1391,CIF_2391,Debit,Debit Classic,Visa,Privilege Customer,2025-06-16
+CARD_1392,CIF_2392,Credit,Credit Platinum Cashback,Visa,None,2025-09-26
+CARD_1393,CIF_2393,Credit,Credit Platinum Cashback,Visa,None,2025-01-05
+CARD_1394,CIF_2394,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-04-06
+CARD_1395,CIF_2395,Debit,Debit Classic,Visa,Privilege Customer,2025-01-13
+CARD_1396,CIF_2396,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-02-22
+CARD_1397,CIF_2397,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-12-17
+CARD_1398,CIF_2398,Debit,Debit Classic,Visa,UUTIEN Customer,2025-11-25
+CARD_1399,CIF_2399,Debit,Debit Digi,Visa,None,2025-04-11
+CARD_1400,CIF_2400,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-03-30
+CARD_1401,CIF_2401,Credit,Credit Gold,Visa,Privilege Customer,2025-03-20
+CARD_1402,CIF_2402,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-06-25
+CARD_1403,CIF_2403,Debit,Debit Classic,Visa,Privilege Customer,2025-12-11
+CARD_1404,CIF_2404,Credit,Credit Gold,Visa,Privilege Customer,2025-01-22
+CARD_1405,CIF_2405,Credit,Credit Platinum Cashback,Visa,None,2025-08-02
+CARD_1406,CIF_2406,Debit,Debit Digi,Visa,Privilege Customer,2025-07-24
+CARD_1407,CIF_2407,Credit,Credit Gold,Visa,UUTIEN Customer,2025-08-18
+CARD_1408,CIF_2408,Debit,Debit Digi,Visa,UUTIEN Customer,2025-08-17
+CARD_1409,CIF_2409,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-07-25
+CARD_1410,CIF_2410,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-07-24
+CARD_1411,CIF_2411,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-06-12
+CARD_1412,CIF_2412,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-12-10
+CARD_1413,CIF_2413,Debit,Debit Digi,Visa,None,2025-03-15
+CARD_1414,CIF_2414,Debit,Debit Classic,Visa,None,2025-04-05
+CARD_1415,CIF_2415,Credit,Credit Gold,Visa,Privilege Customer,2025-12-17
+CARD_1416,CIF_2416,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-08-25
+CARD_1417,CIF_2417,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-02-22
+CARD_1418,CIF_2418,Credit,Credit Infinite,Visa,None,2025-09-28
+CARD_1419,CIF_2419,Debit,Debit Digi,Visa,UUTIEN Customer,2025-02-05
+CARD_1420,CIF_2420,Debit,Debit Lotusmiles Virtual,Visa,None,2025-11-26
+CARD_1421,CIF_2421,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-10-07
+CARD_1422,CIF_2422,Debit,Debit Classic,Visa,UUTIEN Customer,2025-01-12
+CARD_1423,CIF_2423,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-03-25
+CARD_1424,CIF_2424,Debit,Debit Classic,Visa,None,2025-05-18
+CARD_1425,CIF_2425,Debit,Debit Classic,Visa,None,2025-10-28
+CARD_1426,CIF_2426,Debit,Debit Digi,Visa,None,2025-08-11
+CARD_1427,CIF_2427,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-12-12
+CARD_1428,CIF_2428,Debit,Debit Classic,Visa,None,2025-11-03
+CARD_1429,CIF_2429,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-08-08
+CARD_1430,CIF_2430,Debit,Debit Digi,Visa,Privilege Customer,2025-04-18
+CARD_1431,CIF_2431,Debit,Debit Digi,Visa,Privilege Customer,2025-12-07
+CARD_1432,CIF_2432,Debit,Debit Digi,Visa,UUTIEN Customer,2025-02-16
+CARD_1433,CIF_2433,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-10-06
+CARD_1434,CIF_2434,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-09-30
+CARD_1435,CIF_2435,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-08-01
+CARD_1436,CIF_2436,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-08-10
+CARD_1437,CIF_2437,Credit,Credit Signature Privilege,Visa,None,2025-03-20
+CARD_1438,CIF_2438,Credit,Credit Infinite,Visa,None,2025-12-30
+CARD_1439,CIF_2439,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-02-22
+CARD_1440,CIF_2440,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-08-22
+CARD_1441,CIF_2441,Debit,Debit Digi,Visa,UUTIEN Customer,2025-11-21
+CARD_1442,CIF_2442,Credit,Credit Gold,Visa,UUTIEN Customer,2025-05-11
+CARD_1443,CIF_2443,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-09-08
+CARD_1444,CIF_2444,Debit,Debit Digi,Visa,None,2025-12-02
+CARD_1445,CIF_2445,Debit,Debit Digi,Visa,UUTIEN Customer,2025-02-22
+CARD_1446,CIF_2446,Credit,Credit Gold,Visa,None,2025-07-26
+CARD_1447,CIF_2447,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-05-14
+CARD_1448,CIF_2448,Credit,Credit Gold,Visa,UUTIEN Customer,2025-12-19
+CARD_1449,CIF_2449,Credit,Credit Platinum Cashback,Visa,None,2025-04-04
+CARD_1450,CIF_2450,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-12-28
+CARD_1451,CIF_2451,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-04-11
+CARD_1452,CIF_2452,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-12-11
+CARD_1453,CIF_2453,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-06-20
+CARD_1454,CIF_2454,Debit,Debit Digi,Visa,None,2025-03-03
+CARD_1455,CIF_2455,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-05-05
+CARD_1456,CIF_2456,Credit,Credit Gold,Visa,None,2025-05-10
+CARD_1457,CIF_2457,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-10-06
+CARD_1458,CIF_2458,Credit,Credit Infinite,Visa,None,2025-11-06
+CARD_1459,CIF_2459,Debit,Debit Privilege Signature,Visa,None,2025-02-24
+CARD_1460,CIF_2460,Debit,Debit Digi,Visa,UUTIEN Customer,2025-10-15
+CARD_1461,CIF_2461,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-12-03
+CARD_1462,CIF_2462,Debit,Debit Digi,Visa,UUTIEN Customer,2025-05-10
+CARD_1463,CIF_2463,Credit,Credit Gold,Visa,UUTIEN Customer,2025-04-21
+CARD_1464,CIF_2464,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-09-05
+CARD_1465,CIF_2465,Credit,Credit Platinum Cashback,Visa,None,2025-05-29
+CARD_1466,CIF_2466,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-01-05
+CARD_1467,CIF_2467,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-11-15
+CARD_1468,CIF_2468,Debit,Debit Digi,Visa,Privilege Customer,2025-11-18
+CARD_1469,CIF_2469,Credit,Credit Gold,Visa,UUTIEN Customer,2025-11-01
+CARD_1470,CIF_2470,Debit,Debit Lotusmiles Virtual,Visa,None,2025-12-10
+CARD_1471,CIF_2471,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-02-14
+CARD_1472,CIF_2472,Debit,Debit Digi,Visa,None,2025-05-20
+CARD_1473,CIF_2473,Credit,Credit Platinum Cashback,Visa,None,2025-01-24
+CARD_1474,CIF_2474,Credit,Credit Gold,Visa,UUTIEN Customer,2025-09-28
+CARD_1475,CIF_2475,Debit,Debit Digi,Visa,Privilege Customer,2025-03-14
+CARD_1476,CIF_2476,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-11-10
+CARD_1477,CIF_2477,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-03-22
+CARD_1478,CIF_2478,Credit,Credit Infinite,Visa,None,2025-05-08
+CARD_1479,CIF_2479,Debit,Debit Digi,Visa,None,2025-02-15
+CARD_1480,CIF_2480,Credit,Credit Signature Privilege,Visa,None,2025-03-15
+CARD_1481,CIF_2481,Debit,Debit Classic,Visa,None,2025-11-12
+CARD_1482,CIF_2482,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-10-11
+CARD_1483,CIF_2483,Credit,Credit Gold,Visa,UUTIEN Customer,2025-08-18
+CARD_1484,CIF_2484,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-01-29
+CARD_1485,CIF_2485,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-07-11
+CARD_1486,CIF_2486,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-06-01
+CARD_1487,CIF_2487,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-01-24
+CARD_1488,CIF_2488,Debit,Debit Privilege Signature,Visa,None,2025-11-30
+CARD_1489,CIF_2489,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-04-01
+CARD_1490,CIF_2490,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-06-06
+CARD_1491,CIF_2491,Credit,Credit Infinite,Visa,Privilege Customer,2025-03-18
+CARD_1492,CIF_2492,Debit,Debit Lotusmiles Virtual,Visa,None,2025-04-11
+CARD_1493,CIF_2493,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-05-23
+CARD_1494,CIF_2494,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-07-15
+CARD_1495,CIF_2495,Debit,Debit Classic,Visa,Privilege Customer,2025-10-02
+CARD_1496,CIF_2496,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-02-20
+CARD_1497,CIF_2497,Credit,Credit Gold,Visa,UUTIEN Customer,2025-10-22
+CARD_1498,CIF_2498,Debit,Debit Digi,Visa,Privilege Customer,2025-08-20
+CARD_1499,CIF_2499,Debit,Debit Digi,Visa,UUTIEN Customer,2025-07-20
+CARD_1500,CIF_2500,Credit,Credit Gold,Visa,None,2025-01-18
+CARD_1501,CIF_2501,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-04-26
+CARD_1502,CIF_2502,Debit,Debit Classic,Visa,None,2025-08-01
+CARD_1503,CIF_2503,Debit,Debit Classic,Visa,UUTIEN Customer,2025-01-02
+CARD_1504,CIF_2504,Debit,Debit Digi,Visa,UUTIEN Customer,2025-11-22
+CARD_1505,CIF_2505,Credit,Credit Infinite,Visa,None,2025-10-04
+CARD_1506,CIF_2506,Credit,Credit Infinite,Visa,None,2025-01-18
+CARD_1507,CIF_2507,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-07-22
+CARD_1508,CIF_2508,Credit,Credit Signature Privilege,Visa,None,2025-03-28
+CARD_1509,CIF_2509,Debit,Debit Digi,Visa,UUTIEN Customer,2025-06-03
+CARD_1510,CIF_2510,Credit,Credit Gold,Visa,Privilege Customer,2025-02-15
+CARD_1511,CIF_2511,Debit,Debit Lotusmiles Virtual,Visa,None,2025-08-31
+CARD_1512,CIF_2512,Debit,Debit Digi,Visa,Privilege Customer,2025-05-05
+CARD_1513,CIF_2513,Debit,Debit Classic,Visa,None,2025-12-08
+CARD_1514,CIF_2514,Credit,Credit Infinite,Visa,Privilege Customer,2025-04-08
+CARD_1515,CIF_2515,Debit,Debit Classic,Visa,Privilege Customer,2025-03-30
+CARD_1516,CIF_2516,Credit,Credit Gold,Visa,None,2025-05-04
+CARD_1517,CIF_2517,Credit,Credit Gold,Visa,UUTIEN Customer,2025-11-04
+CARD_1518,CIF_2518,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-01-04
+CARD_1519,CIF_2519,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-05-25
+CARD_1520,CIF_2520,Credit,Credit Infinite,Visa,None,2025-04-02
+CARD_1521,CIF_2521,Credit,Credit Gold,Visa,None,2025-05-05
+CARD_1522,CIF_2522,Debit,Debit Classic,Visa,UUTIEN Customer,2025-12-24
+CARD_1523,CIF_2523,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-06-18
+CARD_1524,CIF_2524,Debit,Debit Digi,Visa,Privilege Customer,2025-12-19
+CARD_1525,CIF_2525,Credit,Credit Infinite,Visa,None,2025-05-27
+CARD_1526,CIF_2526,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-12-31
+CARD_1527,CIF_2527,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-11-03
+CARD_1528,CIF_2528,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-09-07
+CARD_1529,CIF_2529,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-10-27
+CARD_1530,CIF_2530,Credit,Credit Gold,Visa,None,2025-11-27
+CARD_1531,CIF_2531,Credit,Credit Signature Privilege,Visa,None,2025-04-18
+CARD_1532,CIF_2532,Debit,Debit Classic,Visa,UUTIEN Customer,2025-03-13
+CARD_1533,CIF_2533,Credit,Credit Gold,Visa,None,2025-12-12
+CARD_1534,CIF_2534,Debit,Debit Classic,Visa,UUTIEN Customer,2025-10-17
+CARD_1535,CIF_2535,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-11-05
+CARD_1536,CIF_2536,Debit,Debit Classic,Visa,UUTIEN Customer,2025-06-24
+CARD_1537,CIF_2537,Debit,Debit Classic,Visa,Privilege Customer,2025-12-02
+CARD_1538,CIF_2538,Debit,Debit Classic,Visa,None,2025-12-13
+CARD_1539,CIF_2539,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-08-05
+CARD_1540,CIF_2540,Credit,Credit Gold,Visa,Privilege Customer,2025-04-11
+CARD_1541,CIF_2541,Debit,Debit Classic,Visa,UUTIEN Customer,2025-06-23
+CARD_1542,CIF_2542,Credit,Credit Gold,Visa,UUTIEN Customer,2025-08-11
+CARD_1543,CIF_2543,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-09-02
+CARD_1544,CIF_2544,Credit,Credit Platinum Cashback,Visa,None,2025-12-23
+CARD_1545,CIF_2545,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-02-27
+CARD_1546,CIF_2546,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-08-28
+CARD_1547,CIF_2547,Debit,Debit Digi,Visa,None,2025-04-18
+CARD_1548,CIF_2548,Credit,Credit Infinite,Visa,Privilege Customer,2025-09-08
+CARD_1549,CIF_2549,Credit,Credit Signature Privilege,Visa,None,2025-02-25
+CARD_1550,CIF_2550,Credit,Credit Gold,Visa,None,2025-02-20
+CARD_1551,CIF_2551,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-04-06
+CARD_1552,CIF_2552,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-10-02
+CARD_1553,CIF_2553,Debit,Debit Digi,Visa,Privilege Customer,2025-07-27
+CARD_1554,CIF_2554,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-02-07
+CARD_1555,CIF_2555,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-10-19
+CARD_1556,CIF_2556,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-06-22
+CARD_1557,CIF_2557,Debit,Debit Lotusmiles Virtual,Visa,None,2025-02-09
+CARD_1558,CIF_2558,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-01-05
+CARD_1559,CIF_2559,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-09-23
+CARD_1560,CIF_2560,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-10-20
+CARD_1561,CIF_2561,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-10-11
+CARD_1562,CIF_2562,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-04-16
+CARD_1563,CIF_2563,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-04-06
+CARD_1564,CIF_2564,Credit,Credit Gold,Visa,Privilege Customer,2025-11-01
+CARD_1565,CIF_2565,Credit,Credit Signature Privilege,Visa,None,2025-11-24
+CARD_1566,CIF_2566,Credit,Credit Gold,Visa,None,2025-11-23
+CARD_1567,CIF_2567,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-04-10
+CARD_1568,CIF_2568,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-10-17
+CARD_1569,CIF_2569,Credit,Credit Gold,Visa,UUTIEN Customer,2025-09-30
+CARD_1570,CIF_2570,Debit,Debit Classic,Visa,Privilege Customer,2025-07-01
+CARD_1571,CIF_2571,Credit,Credit Signature Privilege,Visa,None,2025-11-08
+CARD_1572,CIF_2572,Debit,Debit Digi,Visa,Privilege Customer,2025-01-07
+CARD_1573,CIF_2573,Credit,Credit Infinite,Visa,Privilege Customer,2025-07-27
+CARD_1574,CIF_2574,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-09-05
+CARD_1575,CIF_2575,Credit,Credit Platinum Cashback,Visa,None,2025-09-06
+CARD_1576,CIF_2576,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-02-02
+CARD_1577,CIF_2577,Debit,Debit Digi,Visa,Privilege Customer,2025-05-13
+CARD_1578,CIF_2578,Debit,Debit Digi,Visa,Privilege Customer,2025-05-14
+CARD_1579,CIF_2579,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-10-16
+CARD_1580,CIF_2580,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-05-22
+CARD_1581,CIF_2581,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-09-11
+CARD_1582,CIF_2582,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-06-08
+CARD_1583,CIF_2583,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-10-16
+CARD_1584,CIF_2584,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-03-21
+CARD_1585,CIF_2585,Credit,Credit Infinite,Visa,None,2025-03-25
+CARD_1586,CIF_2586,Debit,Debit Classic,Visa,UUTIEN Customer,2025-06-18
+CARD_1587,CIF_2587,Credit,Credit Infinite,Visa,None,2025-09-05
+CARD_1588,CIF_2588,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-02-24
+CARD_1589,CIF_2589,Debit,Debit Lotusmiles Virtual,Visa,None,2025-06-06
+CARD_1590,CIF_2590,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-11-26
+CARD_1591,CIF_2591,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-05-01
+CARD_1592,CIF_2592,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-07-01
+CARD_1593,CIF_2593,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-02-19
+CARD_1594,CIF_2594,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-10-06
+CARD_1595,CIF_2595,Debit,Debit Digi,Visa,UUTIEN Customer,2025-09-15
+CARD_1596,CIF_2596,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-08-16
+CARD_1597,CIF_2597,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-11-28
+CARD_1598,CIF_2598,Debit,Debit Classic,Visa,UUTIEN Customer,2025-05-18
+CARD_1599,CIF_2599,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-02-26
+CARD_1600,CIF_2600,Debit,Debit Digi,Visa,Privilege Customer,2025-09-09
+CARD_1601,CIF_2601,Debit,Debit Classic,Visa,None,2025-05-02
+CARD_1602,CIF_2602,Debit,Debit Digi,Visa,None,2025-02-21
+CARD_1603,CIF_2603,Debit,Debit Classic,Visa,Privilege Customer,2025-08-22
+CARD_1604,CIF_2604,Debit,Debit Classic,Visa,None,2025-01-24
+CARD_1605,CIF_2605,Debit,Debit Digi,Visa,None,2025-08-16
+CARD_1606,CIF_2606,Debit,Debit Privilege Signature,Visa,None,2025-06-20
+CARD_1607,CIF_2607,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-02-10
+CARD_1608,CIF_2608,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-08-01
+CARD_1609,CIF_2609,Debit,Debit Classic,Visa,UUTIEN Customer,2025-04-02
+CARD_1610,CIF_2610,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-10-30
+CARD_1611,CIF_2611,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-03-14
+CARD_1612,CIF_2612,Debit,Debit Privilege Signature,Visa,None,2025-11-12
+CARD_1613,CIF_2613,Credit,Credit Infinite,Visa,None,2025-09-07
+CARD_1614,CIF_2614,Debit,Debit Digi,Visa,Privilege Customer,2025-01-25
+CARD_1615,CIF_2615,Credit,Credit Platinum Cashback,Visa,None,2025-08-06
+CARD_1616,CIF_2616,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-10-27
+CARD_1617,CIF_2617,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-11-05
+CARD_1618,CIF_2618,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-05-16
+CARD_1619,CIF_2619,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-11-13
+CARD_1620,CIF_2620,Debit,Debit Classic,Visa,Privilege Customer,2025-09-07
+CARD_1621,CIF_2621,Debit,Debit Classic,Visa,None,2025-06-28
+CARD_1622,CIF_2622,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-02-28
+CARD_1623,CIF_2623,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-11-28
+CARD_1624,CIF_2624,Credit,Credit Signature Privilege,Visa,None,2025-04-08
+CARD_1625,CIF_2625,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-04-01
+CARD_1626,CIF_2626,Debit,Debit Classic,Visa,UUTIEN Customer,2025-07-03
+CARD_1627,CIF_2627,Debit,Debit Classic,Visa,Privilege Customer,2025-01-26
+CARD_1628,CIF_2628,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-08-11
+CARD_1629,CIF_2629,Credit,Credit Gold,Visa,UUTIEN Customer,2025-04-01
+CARD_1630,CIF_2630,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-06-25
+CARD_1631,CIF_2631,Debit,Debit Digi,Visa,Privilege Customer,2025-02-12
+CARD_1632,CIF_2632,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-11-08
+CARD_1633,CIF_2633,Debit,Debit Digi,Visa,None,2025-11-27
+CARD_1634,CIF_2634,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-06-24
+CARD_1635,CIF_2635,Debit,Debit Digi,Visa,None,2025-08-30
+CARD_1636,CIF_2636,Debit,Debit Privilege Signature,Visa,None,2025-08-24
+CARD_1637,CIF_2637,Debit,Debit Classic,Visa,Privilege Customer,2025-07-04
+CARD_1638,CIF_2638,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-07-05
+CARD_1639,CIF_2639,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-08-21
+CARD_1640,CIF_2640,Debit,Debit Classic,Visa,UUTIEN Customer,2025-08-28
+CARD_1641,CIF_2641,Debit,Debit Classic,Visa,Privilege Customer,2025-05-29
+CARD_1642,CIF_2642,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-06-03
+CARD_1643,CIF_2643,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-09-10
+CARD_1644,CIF_2644,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-03-16
+CARD_1645,CIF_2645,Credit,Credit Gold,Visa,Privilege Customer,2025-11-05
+CARD_1646,CIF_2646,Credit,Credit Infinite,Visa,None,2025-09-24
+CARD_1647,CIF_2647,Debit,Debit Digi,Visa,Privilege Customer,2025-03-03
+CARD_1648,CIF_2648,Credit,Credit Signature Privilege,Visa,None,2025-07-21
+CARD_1649,CIF_2649,Credit,Credit Gold,Visa,UUTIEN Customer,2025-12-03
+CARD_1650,CIF_2650,Credit,Credit Gold,Visa,Privilege Customer,2025-07-22
+CARD_1651,CIF_2651,Debit,Debit Privilege Signature,Visa,None,2025-07-05
+CARD_1652,CIF_2652,Credit,Credit Gold,Visa,Privilege Customer,2025-12-20
+CARD_1653,CIF_2653,Credit,Credit Gold,Visa,None,2025-11-29
+CARD_1654,CIF_2654,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-06-04
+CARD_1655,CIF_2655,Credit,Credit Infinite,Visa,None,2025-09-23
+CARD_1656,CIF_2656,Credit,Credit Gold,Visa,Privilege Customer,2025-03-17
+CARD_1657,CIF_2657,Debit,Debit Digi,Visa,Privilege Customer,2025-12-01
+CARD_1658,CIF_2658,Debit,Debit Digi,Visa,UUTIEN Customer,2025-05-21
+CARD_1659,CIF_2659,Debit,Debit Lotusmiles Virtual,Visa,None,2025-10-09
+CARD_1660,CIF_2660,Debit,Debit Classic,Visa,None,2025-04-01
+CARD_1661,CIF_2661,Debit,Debit Privilege Signature,Visa,None,2025-01-24
+CARD_1662,CIF_2662,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-03-22
+CARD_1663,CIF_2663,Debit,Debit Classic,Visa,UUTIEN Customer,2025-08-27
+CARD_1664,CIF_2664,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-11-19
+CARD_1665,CIF_2665,Credit,Credit Signature Privilege,Visa,None,2025-10-30
+CARD_1666,CIF_2666,Credit,Credit Gold,Visa,None,2025-08-05
+CARD_1667,CIF_2667,Debit,Debit Classic,Visa,None,2025-01-09
+CARD_1668,CIF_2668,Debit,Debit Classic,Visa,None,2025-05-15
+CARD_1669,CIF_2669,Credit,Credit Gold,Visa,None,2025-02-18
+CARD_1670,CIF_2670,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-02-09
+CARD_1671,CIF_2671,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-04-13
+CARD_1672,CIF_2672,Debit,Debit Digi,Visa,None,2025-06-24
+CARD_1673,CIF_2673,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-06-22
+CARD_1674,CIF_2674,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-02-14
+CARD_1675,CIF_2675,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-10-11
+CARD_1676,CIF_2676,Credit,Credit Gold,Visa,UUTIEN Customer,2025-05-23
+CARD_1677,CIF_2677,Credit,Credit Gold,Visa,Privilege Customer,2025-02-17
+CARD_1678,CIF_2678,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-05-13
+CARD_1679,CIF_2679,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-05-06
+CARD_1680,CIF_2680,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-08-14
+CARD_1681,CIF_2681,Debit,Debit Digi,Visa,Privilege Customer,2025-05-31
+CARD_1682,CIF_2682,Debit,Debit Classic,Visa,Privilege Customer,2025-02-08
+CARD_1683,CIF_2683,Credit,Credit Gold,Visa,Privilege Customer,2025-07-07
+CARD_1684,CIF_2684,Debit,Debit Classic,Visa,None,2025-05-08
+CARD_1685,CIF_2685,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-01-19
+CARD_1686,CIF_2686,Credit,Credit Gold,Visa,None,2025-11-19
+CARD_1687,CIF_2687,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-10-15
+CARD_1688,CIF_2688,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-02-24
+CARD_1689,CIF_2689,Credit,Credit Gold,Visa,UUTIEN Customer,2025-11-21
+CARD_1690,CIF_2690,Debit,Debit Digi,Visa,Privilege Customer,2025-03-15
+CARD_1691,CIF_2691,Credit,Credit Gold,Visa,Privilege Customer,2025-11-05
+CARD_1692,CIF_2692,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-03-09
+CARD_1693,CIF_2693,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-06-09
+CARD_1694,CIF_2694,Credit,Credit Gold,Visa,Privilege Customer,2025-10-28
+CARD_1695,CIF_2695,Credit,Credit Infinite,Visa,None,2025-06-11
+CARD_1696,CIF_2696,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-02-16
+CARD_1697,CIF_2697,Credit,Credit Platinum Cashback,Visa,None,2025-03-17
+CARD_1698,CIF_2698,Debit,Debit Classic,Visa,UUTIEN Customer,2025-05-04
+CARD_1699,CIF_2699,Credit,Credit Platinum Cashback,Visa,None,2025-04-17
+CARD_1700,CIF_2700,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-10-20
+CARD_1701,CIF_2701,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-07-10
+CARD_1702,CIF_2702,Debit,Debit Classic,Visa,Privilege Customer,2025-08-29
+CARD_1703,CIF_2703,Debit,Debit Privilege Signature,Visa,None,2025-09-30
+CARD_1704,CIF_2704,Debit,Debit Privilege Signature,Visa,None,2025-06-06
+CARD_1705,CIF_2705,Debit,Debit Privilege Signature,Visa,None,2025-05-04
+CARD_1706,CIF_2706,Credit,Credit Gold,Visa,Privilege Customer,2025-03-05
+CARD_1707,CIF_2707,Debit,Debit Digi,Visa,None,2025-11-07
+CARD_1708,CIF_2708,Debit,Debit Classic,Visa,UUTIEN Customer,2025-06-26
+CARD_1709,CIF_2709,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-03-26
+CARD_1710,CIF_2710,Debit,Debit Digi,Visa,UUTIEN Customer,2025-11-22
+CARD_1711,CIF_2711,Debit,Debit Lotusmiles Virtual,Visa,None,2025-05-20
+CARD_1712,CIF_2712,Debit,Debit Classic,Visa,None,2025-05-28
+CARD_1713,CIF_2713,Credit,Credit Gold,Visa,UUTIEN Customer,2025-08-03
+CARD_1714,CIF_2714,Debit,Debit Classic,Visa,Privilege Customer,2025-03-23
+CARD_1715,CIF_2715,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-03-29
+CARD_1716,CIF_2716,Credit,Credit Gold,Visa,Privilege Customer,2025-01-29
+CARD_1717,CIF_2717,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-01-25
+CARD_1718,CIF_2718,Debit,Debit Digi,Visa,UUTIEN Customer,2025-08-23
+CARD_1719,CIF_2719,Credit,Credit Infinite,Visa,Privilege Customer,2025-06-30
+CARD_1720,CIF_2720,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-07-13
+CARD_1721,CIF_2721,Credit,Credit Signature Privilege,Visa,None,2025-10-18
+CARD_1722,CIF_2722,Debit,Debit Digi,Visa,Privilege Customer,2025-10-20
+CARD_1723,CIF_2723,Credit,Credit Infinite,Visa,None,2025-07-01
+CARD_1724,CIF_2724,Credit,Credit Infinite,Visa,None,2025-08-27
+CARD_1725,CIF_2725,Debit,Debit Classic,Visa,Privilege Customer,2025-08-20
+CARD_1726,CIF_2726,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-04-10
+CARD_1727,CIF_2727,Credit,Credit Infinite,Visa,None,2025-12-19
+CARD_1728,CIF_2728,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-11-06
+CARD_1729,CIF_2729,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-01-08
+CARD_1730,CIF_2730,Debit,Debit Classic,Visa,None,2025-04-29
+CARD_1731,CIF_2731,Debit,Debit Classic,Visa,Privilege Customer,2025-09-27
+CARD_1732,CIF_2732,Debit,Debit Classic,Visa,UUTIEN Customer,2025-10-05
+CARD_1733,CIF_2733,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-03-06
+CARD_1734,CIF_2734,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-07-20
+CARD_1735,CIF_2735,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-12-02
+CARD_1736,CIF_2736,Debit,Debit Digi,Visa,None,2025-11-12
+CARD_1737,CIF_2737,Credit,Credit Gold,Visa,Privilege Customer,2025-02-25
+CARD_1738,CIF_2738,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-05-27
+CARD_1739,CIF_2739,Credit,Credit Signature Privilege,Visa,None,2025-02-15
+CARD_1740,CIF_2740,Credit,Credit Gold,Visa,UUTIEN Customer,2025-10-12
+CARD_1741,CIF_2741,Debit,Debit Classic,Visa,UUTIEN Customer,2025-09-01
+CARD_1742,CIF_2742,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-10-03
+CARD_1743,CIF_2743,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-11-27
+CARD_1744,CIF_2744,Debit,Debit Digi,Visa,UUTIEN Customer,2025-05-21
+CARD_1745,CIF_2745,Debit,Debit Digi,Visa,UUTIEN Customer,2025-07-31
+CARD_1746,CIF_2746,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-07-02
+CARD_1747,CIF_2747,Debit,Debit Classic,Visa,Privilege Customer,2025-07-08
+CARD_1748,CIF_2748,Debit,Debit Digi,Visa,Privilege Customer,2025-07-22
+CARD_1749,CIF_2749,Debit,Debit Privilege Signature,Visa,None,2025-12-13
+CARD_1750,CIF_2750,Credit,Credit Signature Privilege,Visa,None,2025-05-26
+CARD_1751,CIF_2751,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-12-11
+CARD_1752,CIF_2752,Credit,Credit Gold,Visa,None,2025-06-15
+CARD_1753,CIF_2753,Credit,Credit Signature Privilege,Visa,None,2025-12-28
+CARD_1754,CIF_2754,Debit,Debit Digi,Visa,Privilege Customer,2025-02-01
+CARD_1755,CIF_2755,Credit,Credit Gold,Visa,Privilege Customer,2025-12-06
+CARD_1756,CIF_2756,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-01-02
+CARD_1757,CIF_2757,Credit,Credit Signature Privilege,Visa,None,2025-11-17
+CARD_1758,CIF_2758,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-04-20
+CARD_1759,CIF_2759,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-12-28
+CARD_1760,CIF_2760,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-02-07
+CARD_1761,CIF_2761,Debit,Debit Classic,Visa,None,2025-07-27
+CARD_1762,CIF_2762,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-02-16
+CARD_1763,CIF_2763,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-03-01
+CARD_1764,CIF_2764,Debit,Debit Lotusmiles Virtual,Visa,None,2025-07-04
+CARD_1765,CIF_2765,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-07-13
+CARD_1766,CIF_2766,Debit,Debit Classic,Visa,None,2025-07-12
+CARD_1767,CIF_2767,Credit,Credit Gold,Visa,UUTIEN Customer,2025-04-09
+CARD_1768,CIF_2768,Debit,Debit Classic,Visa,None,2025-10-14
+CARD_1769,CIF_2769,Credit,Credit Infinite,Visa,None,2025-08-12
+CARD_1770,CIF_2770,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-10-29
+CARD_1771,CIF_2771,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-10-29
+CARD_1772,CIF_2772,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-09-29
+CARD_1773,CIF_2773,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-04-29
+CARD_1774,CIF_2774,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-08-27
+CARD_1775,CIF_2775,Credit,Credit Signature Privilege,Visa,None,2025-02-09
+CARD_1776,CIF_2776,Debit,Debit Classic,Visa,Privilege Customer,2025-03-14
+CARD_1777,CIF_2777,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-06-03
+CARD_1778,CIF_2778,Credit,Credit Infinite,Visa,Privilege Customer,2025-11-23
+CARD_1779,CIF_2779,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-10-29
+CARD_1780,CIF_2780,Debit,Debit Classic,Visa,UUTIEN Customer,2025-09-20
+CARD_1781,CIF_2781,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-11-05
+CARD_1782,CIF_2782,Credit,Credit Gold,Visa,None,2025-02-10
+CARD_1783,CIF_2783,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-03-30
+CARD_1784,CIF_2784,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-12-05
+CARD_1785,CIF_2785,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-09-16
+CARD_1786,CIF_2786,Credit,Credit Gold,Visa,None,2025-10-16
+CARD_1787,CIF_2787,Debit,Debit Classic,Visa,Privilege Customer,2025-08-12
+CARD_1788,CIF_2788,Debit,Debit Classic,Visa,UUTIEN Customer,2025-08-11
+CARD_1789,CIF_2789,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-06-19
+CARD_1790,CIF_2790,Debit,Debit Privilege Signature,Visa,None,2025-12-16
+CARD_1791,CIF_2791,Debit,Debit Classic,Visa,UUTIEN Customer,2025-01-16
+CARD_1792,CIF_2792,Credit,Credit Signature Privilege,Visa,None,2025-02-21
+CARD_1793,CIF_2793,Debit,Debit Digi,Visa,Privilege Customer,2025-02-27
+CARD_1794,CIF_2794,Credit,Credit Gold,Visa,None,2025-09-09
+CARD_1795,CIF_2795,Debit,Debit Classic,Visa,UUTIEN Customer,2025-07-02
+CARD_1796,CIF_2796,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-11-21
+CARD_1797,CIF_2797,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-12-08
+CARD_1798,CIF_2798,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-10-20
+CARD_1799,CIF_2799,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-10-24
+CARD_1800,CIF_2800,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-04-09
+CARD_1801,CIF_2801,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-03-02
+CARD_1802,CIF_2802,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-06-10
+CARD_1803,CIF_2803,Debit,Debit Digi,Visa,UUTIEN Customer,2025-12-23
+CARD_1804,CIF_2804,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-03-22
+CARD_1805,CIF_2805,Debit,Debit Lotusmiles Virtual,Visa,None,2025-07-11
+CARD_1806,CIF_2806,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-02-16
+CARD_1807,CIF_2807,Debit,Debit Classic,Visa,None,2025-07-04
+CARD_1808,CIF_2808,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-05-16
+CARD_1809,CIF_2809,Credit,Credit Gold,Visa,UUTIEN Customer,2025-05-10
+CARD_1810,CIF_2810,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-03-02
+CARD_1811,CIF_2811,Debit,Debit Classic,Visa,None,2025-08-14
+CARD_1812,CIF_2812,Credit,Credit Signature Privilege,Visa,None,2025-05-02
+CARD_1813,CIF_2813,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-06-01
+CARD_1814,CIF_2814,Credit,Credit Infinite,Visa,None,2025-04-12
+CARD_1815,CIF_2815,Debit,Debit Classic,Visa,Privilege Customer,2025-09-23
+CARD_1816,CIF_2816,Credit,Credit Infinite,Visa,Privilege Customer,2025-09-26
+CARD_1817,CIF_2817,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-02-28
+CARD_1818,CIF_2818,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-06-06
+CARD_1819,CIF_2819,Credit,Credit Signature Privilege,Visa,None,2025-06-18
+CARD_1820,CIF_2820,Debit,Debit Digi,Visa,Privilege Customer,2025-07-30
+CARD_1821,CIF_2821,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-01-09
+CARD_1822,CIF_2822,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-04-01
+CARD_1823,CIF_2823,Debit,Debit Digi,Visa,Privilege Customer,2025-06-01
+CARD_1824,CIF_2824,Debit,Debit Privilege Signature,Visa,None,2025-09-25
+CARD_1825,CIF_2825,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-09-28
+CARD_1826,CIF_2826,Credit,Credit Infinite,Visa,Privilege Customer,2025-01-22
+CARD_1827,CIF_2827,Credit,Credit Signature Privilege,Visa,None,2025-08-12
+CARD_1828,CIF_2828,Debit,Debit Classic,Visa,Privilege Customer,2025-01-30
+CARD_1829,CIF_2829,Credit,Credit Gold,Visa,UUTIEN Customer,2025-04-11
+CARD_1830,CIF_2830,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-08-20
+CARD_1831,CIF_2831,Debit,Debit Lotusmiles Virtual,Visa,None,2025-08-24
+CARD_1832,CIF_2832,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-11-27
+CARD_1833,CIF_2833,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-02-25
+CARD_1834,CIF_2834,Credit,Credit Platinum Cashback,Visa,None,2025-05-15
+CARD_1835,CIF_2835,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-04-23
+CARD_1836,CIF_2836,Credit,Credit Infinite,Visa,Privilege Customer,2025-07-09
+CARD_1837,CIF_2837,Debit,Debit Lotusmiles Virtual,Visa,None,2025-04-10
+CARD_1838,CIF_2838,Debit,Debit Digi,Visa,Privilege Customer,2025-08-20
+CARD_1839,CIF_2839,Debit,Debit Lotusmiles Virtual,Visa,None,2025-04-13
+CARD_1840,CIF_2840,Debit,Debit Lotusmiles Virtual,Visa,None,2025-07-06
+CARD_1841,CIF_2841,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-06-23
+CARD_1842,CIF_2842,Debit,Debit Classic,Visa,UUTIEN Customer,2025-07-02
+CARD_1843,CIF_2843,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-08-24
+CARD_1844,CIF_2844,Credit,Credit Infinite,Visa,Privilege Customer,2025-03-26
+CARD_1845,CIF_2845,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-08-17
+CARD_1846,CIF_2846,Debit,Debit Digi,Visa,None,2025-01-19
+CARD_1847,CIF_2847,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-06-25
+CARD_1848,CIF_2848,Debit,Debit Classic,Visa,None,2025-03-12
+CARD_1849,CIF_2849,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-09-18
+CARD_1850,CIF_2850,Credit,Credit Signature Privilege,Visa,None,2025-02-22
+CARD_1851,CIF_2851,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-01-03
+CARD_1852,CIF_2852,Debit,Debit Classic,Visa,UUTIEN Customer,2025-09-14
+CARD_1853,CIF_2853,Debit,Debit Digi,Visa,None,2025-07-18
+CARD_1854,CIF_2854,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-12-19
+CARD_1855,CIF_2855,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-01-09
+CARD_1856,CIF_2856,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-11-01
+CARD_1857,CIF_2857,Debit,Debit Lotusmiles Virtual,Visa,None,2025-06-03
+CARD_1858,CIF_2858,Credit,Credit Infinite,Visa,None,2025-10-09
+CARD_1859,CIF_2859,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-01-29
+CARD_1860,CIF_2860,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-01-11
+CARD_1861,CIF_2861,Debit,Debit Digi,Visa,None,2025-04-26
+CARD_1862,CIF_2862,Debit,Debit Classic,Visa,None,2025-10-07
+CARD_1863,CIF_2863,Debit,Debit Classic,Visa,UUTIEN Customer,2025-11-22
+CARD_1864,CIF_2864,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-03-12
+CARD_1865,CIF_2865,Debit,Debit Lotusmiles Virtual,Visa,None,2025-04-16
+CARD_1866,CIF_2866,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-05-16
+CARD_1867,CIF_2867,Debit,Debit Classic,Visa,UUTIEN Customer,2025-02-22
+CARD_1868,CIF_2868,Credit,Credit Gold,Visa,Privilege Customer,2025-05-01
+CARD_1869,CIF_2869,Debit,Debit Classic,Visa,Privilege Customer,2025-12-14
+CARD_1870,CIF_2870,Credit,Credit Gold,Visa,None,2025-04-23
+CARD_1871,CIF_2871,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-02-26
+CARD_1872,CIF_2872,Credit,Credit Gold,Visa,UUTIEN Customer,2025-11-01
+CARD_1873,CIF_2873,Credit,Credit Signature Privilege,Visa,None,2025-07-20
+CARD_1874,CIF_2874,Credit,Credit Platinum Cashback,Visa,None,2025-01-25
+CARD_1875,CIF_2875,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-01-01
+CARD_1876,CIF_2876,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-09-29
+CARD_1877,CIF_2877,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-08-12
+CARD_1878,CIF_2878,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-02-20
+CARD_1879,CIF_2879,Debit,Debit Classic,Visa,UUTIEN Customer,2025-12-30
+CARD_1880,CIF_2880,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-01-04
+CARD_1881,CIF_2881,Credit,Credit Infinite,Visa,Privilege Customer,2025-07-15
+CARD_1882,CIF_2882,Debit,Debit Privilege Signature,Visa,None,2025-03-14
+CARD_1883,CIF_2883,Debit,Debit Classic,Visa,UUTIEN Customer,2025-10-13
+CARD_1884,CIF_2884,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-11-01
+CARD_1885,CIF_2885,Credit,Credit Platinum Cashback,Visa,UUTIEN Customer,2025-11-25
+CARD_1886,CIF_2886,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-12-21
+CARD_1887,CIF_2887,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-05-22
+CARD_1888,CIF_2888,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-02-23
+CARD_1889,CIF_2889,Credit,Credit Platinum Cashback,Visa,None,2025-06-24
+CARD_1890,CIF_2890,Credit,Credit Gold,Visa,None,2025-03-24
+CARD_1891,CIF_2891,Debit,Debit Classic,Visa,UUTIEN Customer,2025-04-10
+CARD_1892,CIF_2892,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-12-12
+CARD_1893,CIF_2893,Debit,Debit Classic,Visa,Privilege Customer,2025-06-18
+CARD_1894,CIF_2894,Credit,Credit Gold,Visa,UUTIEN Customer,2025-02-06
+CARD_1895,CIF_2895,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-08-14
+CARD_1896,CIF_2896,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-09-30
+CARD_1897,CIF_2897,Credit,Credit Gold,Visa,None,2025-03-25
+CARD_1898,CIF_2898,Debit,Debit Digi,Visa,UUTIEN Customer,2025-08-14
+CARD_1899,CIF_2899,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-02-25
+CARD_1900,CIF_2900,Debit,Debit Lotusmiles Virtual,Visa,None,2025-02-16
+CARD_1901,CIF_2901,Debit,Debit Lotusmiles Virtual,Visa,None,2025-05-22
+CARD_1902,CIF_2902,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-04-08
+CARD_1903,CIF_2903,Credit,Credit Gold,Visa,UUTIEN Customer,2025-07-20
+CARD_1904,CIF_2904,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-01-07
+CARD_1905,CIF_2905,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-04-04
+CARD_1906,CIF_2906,Credit,Credit Signature Privilege,Visa,None,2025-08-22
+CARD_1907,CIF_2907,Credit,Credit Platinum Cashback,Visa,None,2025-03-23
+CARD_1908,CIF_2908,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-11-23
+CARD_1909,CIF_2909,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-08-05
+CARD_1910,CIF_2910,Credit,Credit Gold,Visa,Privilege Customer,2025-12-23
+CARD_1911,CIF_2911,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-03-25
+CARD_1912,CIF_2912,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-03-19
+CARD_1913,CIF_2913,Credit,Credit Gold,Visa,None,2025-08-07
+CARD_1914,CIF_2914,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-09-04
+CARD_1915,CIF_2915,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-01-11
+CARD_1916,CIF_2916,Debit,Debit Digi,Visa,Privilege Customer,2025-08-19
+CARD_1917,CIF_2917,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-09-04
+CARD_1918,CIF_2918,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-09-11
+CARD_1919,CIF_2919,Credit,Credit Platinum Cashback,Visa,None,2025-09-19
+CARD_1920,CIF_2920,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-11-02
+CARD_1921,CIF_2921,Credit,Credit Platinum Cashback,Visa,None,2025-01-06
+CARD_1922,CIF_2922,Debit,Debit Classic,Visa,UUTIEN Customer,2025-12-02
+CARD_1923,CIF_2923,Credit,Credit Gold,Visa,None,2025-11-23
+CARD_1924,CIF_2924,Credit,Credit Signature Privilege,Visa,UUTIEN Customer,2025-01-29
+CARD_1925,CIF_2925,Debit,Debit Classic,Visa,None,2025-11-27
+CARD_1926,CIF_2926,Credit,Credit Signature Privilege,Visa,None,2025-12-11
+CARD_1927,CIF_2927,Debit,Debit Lotusmiles Virtual,Visa,None,2025-11-27
+CARD_1928,CIF_2928,Credit,Credit Gold,Visa,None,2025-07-05
+CARD_1929,CIF_2929,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-06-27
+CARD_1930,CIF_2930,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-05-17
+CARD_1931,CIF_2931,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-02-09
+CARD_1932,CIF_2932,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-11-03
+CARD_1933,CIF_2933,Debit,Debit Digi,Visa,None,2025-02-09
+CARD_1934,CIF_2934,Credit,Credit Gold,Visa,None,2025-01-05
+CARD_1935,CIF_2935,Credit,Credit Gold,Visa,None,2025-10-08
+CARD_1936,CIF_2936,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-05-15
+CARD_1937,CIF_2937,Debit,Debit Digi,Visa,UUTIEN Customer,2025-04-09
+CARD_1938,CIF_2938,Debit,Debit Digi,Visa,Privilege Customer,2025-03-19
+CARD_1939,CIF_2939,Credit,Credit Platinum Cashback,Visa,None,2025-08-29
+CARD_1940,CIF_2940,Debit,Debit Classic,Visa,UUTIEN Customer,2025-09-29
+CARD_1941,CIF_2941,Credit,Credit Signature Privilege,Visa,None,2025-06-22
+CARD_1942,CIF_2942,Debit,Debit Digi,Visa,UUTIEN Customer,2025-12-31
+CARD_1943,CIF_2943,Credit,Credit Platinum Cashback,Visa,Privilege Customer,2025-12-16
+CARD_1944,CIF_2944,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-04-05
+CARD_1945,CIF_2945,Debit,Debit Lotusmiles Virtual,Visa,Privilege Customer,2025-12-09
+CARD_1946,CIF_2946,Debit,Debit Digi,Visa,None,2025-06-09
+CARD_1947,CIF_2947,Debit,Debit Classic,Visa,Privilege Customer,2025-08-18
+CARD_1948,CIF_2948,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-05-03
+CARD_1949,CIF_2949,Debit,Debit Lotusmiles Virtual,Visa,None,2025-07-08
+CARD_1950,CIF_2950,Credit,Credit Gold,Visa,UUTIEN Customer,2025-05-10
+CARD_1951,CIF_2951,Credit,Credit Infinite,Visa,Privilege Customer,2025-06-15
+CARD_1952,CIF_2952,Debit,Debit Privilege Signature,Visa,None,2025-07-18
+CARD_1953,CIF_2953,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-10-15
+CARD_1954,CIF_2954,Credit,Credit Gold,Visa,UUTIEN Customer,2025-08-31
+CARD_1955,CIF_2955,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-08-17
+CARD_1956,CIF_2956,Debit,Debit Classic,Visa,Privilege Customer,2025-03-13
+CARD_1957,CIF_2957,Debit,Debit Classic,Visa,None,2025-04-01
+CARD_1958,CIF_2958,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-01-16
+CARD_1959,CIF_2959,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-01-03
+CARD_1960,CIF_2960,Credit,Credit Gold,Visa,UUTIEN Customer,2025-03-08
+CARD_1961,CIF_2961,Credit,Credit Signature Privilege,Visa,None,2025-01-27
+CARD_1962,CIF_2962,Credit,Credit Infinite,Visa,None,2025-12-23
+CARD_1963,CIF_2963,Credit,Credit Gold,Visa,Privilege Customer,2025-10-05
+CARD_1964,CIF_2964,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-07-12
+CARD_1965,CIF_2965,Debit,Debit Lotusmiles Virtual,Visa,None,2025-10-15
+CARD_1966,CIF_2966,Debit,Debit Classic,Visa,UUTIEN Customer,2025-05-08
+CARD_1967,CIF_2967,Debit,Debit Privilege Signature,Visa,Privilege Customer,2025-04-25
+CARD_1968,CIF_2968,Debit,Debit Lotusmiles Virtual,Visa,UUTIEN Customer,2025-10-05
+CARD_1969,CIF_2969,Debit,Debit Digi,Visa,Privilege Customer,2025-04-15
+CARD_1970,CIF_2970,Debit,Debit Digi,Visa,UUTIEN Customer,2025-07-07
+CARD_1971,CIF_2971,Credit,Credit Gold,Visa,UUTIEN Customer,2025-12-15
+CARD_1972,CIF_2972,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-04-16
+CARD_1973,CIF_2973,Debit,Debit Classic,Visa,Privilege Customer,2025-10-14
+CARD_1974,CIF_2974,Debit,Debit Classic,Visa,None,2025-06-26
+CARD_1975,CIF_2975,Debit,Debit Digi,Visa,UUTIEN Customer,2025-08-12
+CARD_1976,CIF_2976,Credit,Credit Signature Privilege,Visa,Privilege Customer,2025-05-31
+CARD_1977,CIF_2977,Debit,Debit Classic,Visa,UUTIEN Customer,2025-05-01
+CARD_1978,CIF_2978,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-11-18
+CARD_1979,CIF_2979,Credit,Credit Infinite,Visa,Privilege Customer,2025-11-24
+CARD_1980,CIF_2980,Debit,Debit Digi,Visa,UUTIEN Customer,2025-06-15
+CARD_1981,CIF_2981,Credit,Credit Infinite,Visa,Privilege Customer,2025-07-17
+CARD_1982,CIF_2982,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-11-11
+CARD_1983,CIF_2983,Credit,Credit Gold,Visa,None,2025-09-09
+CARD_1984,CIF_2984,Credit,Credit Infinite,Visa,Privilege Customer,2025-08-06
+CARD_1985,CIF_2985,Debit,Debit Digi,Visa,UUTIEN Customer,2025-07-17
+CARD_1986,CIF_2986,Credit,Credit Gold,Visa,Privilege Customer,2025-07-13
+CARD_1987,CIF_2987,Debit,Debit Privilege Signature,Visa,None,2025-10-06
+CARD_1988,CIF_2988,Credit,Credit Infinite,Visa,UUTIEN Customer,2025-04-15
+CARD_1989,CIF_2989,Debit,Debit Privilege Signature,Visa,None,2025-03-15
+CARD_1990,CIF_2990,Credit,Credit Gold,Visa,UUTIEN Customer,2025-12-22
+CARD_1991,CIF_2991,Credit,Credit Gold,Visa,UUTIEN Customer,2025-12-22
+CARD_1992,CIF_2992,Debit,Debit Digi,Visa,Privilege Customer,2025-06-11
+CARD_1993,CIF_2993,Debit,Debit Privilege Signature,Visa,UUTIEN Customer,2025-03-28
+CARD_1994,CIF_2994,Credit,Credit Gold,Visa,Privilege Customer,2025-12-07
+CARD_1995,CIF_2995,Debit,Debit Lotusmiles Virtual,Visa,None,2025-10-14
+CARD_1996,CIF_2996,Debit,Debit Privilege Signature,Visa,None,2025-06-03
+CARD_1997,CIF_2997,Credit,Credit Infinite,Visa,None,2025-03-17
+CARD_1998,CIF_2998,Debit,Debit Digi,Visa,UUTIEN Customer,2025-04-18
+CARD_1999,CIF_2999,Credit,Credit Gold,Visa,Privilege Customer,2025-10-14
+CARD_2000,CIF_3000,Debit,Debit Digi,Visa,None,2025-08-20
