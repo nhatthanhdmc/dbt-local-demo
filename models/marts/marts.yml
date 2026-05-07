@@ -1,0 +1,36 @@
+version: 2
+
+models:
+  - name: fct_sales
+    description: "Bảng Fact (Sự kiện) lưu trữ toàn bộ các giao dịch bán hàng. Kết nối trực tiếp lên Tableau để vẽ biểu đồ doanh thu theo thời gian."
+    columns:
+      - name: order_id
+        description: "Mã đơn hàng duy nhất."
+        tests:
+          - unique
+          - not_null
+      - name: customer_id
+        description: "Khóa ngoại (Foreign Key) để join với bảng dim_customers."
+        tests:
+          - not_null
+      - name: order_date
+        description: "Ngày ghi nhận doanh thu."
+      - name: revenue
+        description: "Doanh thu thực tế mang lại (VNĐ)."
+      - name: order_category
+        description: "Hạng của đơn hàng (VIP / Standard)."
+
+  - name: dim_customers
+    description: "Bảng Dimension (Mô tả) chứa thông tin chi tiết (Attributes) của khách hàng. Dùng để filter hoặc group by trên Dashboard."
+    columns:
+      - name: customer_id
+        description: "Khóa chính (Primary Key) của bảng Dim."
+        tests:
+          - unique
+          - not_null
+      - name: customer_name
+        description: "Tên đầy đủ của khách hàng."
+      - name: registration_date
+        description: "Ngày khách hàng gia nhập hệ thống."
+      - name: customer_status
+        description: "Trạng thái (Active/Inactive/Pending/Unknown)."

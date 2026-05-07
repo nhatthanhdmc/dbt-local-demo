@@ -1,0 +1,17 @@
+version: 2
+
+models:
+  - name: stg_customers
+    description: "Bảng Staging đã làm sạch cơ bản của Customers. Xử lý đổi tên cột và ép kiểu dữ liệu ngày tháng."
+    columns:
+      - name: customer_id
+        description: "Mã định danh duy nhất của khách hàng từ hệ thống nguồn."
+        tests:
+          - unique
+          - not_null
+      - name: customer_name
+        description: "Họ và tên đầy đủ của khách hàng (đã được trim khoảng trắng)."
+      - name: registration_date
+        description: "Ngày khách hàng tạo tài khoản (định dạng YYYY-MM-DD)."
+      - name: customer_status
+        description: "Trạng thái hoạt động của khách hàng. Các giá trị null được chuyển thành 'Unknown'."
