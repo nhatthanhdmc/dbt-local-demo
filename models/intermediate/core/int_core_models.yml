@@ -1,0 +1,22 @@
+version: 2
+
+models:
+  - name: int_rfm_30d_metrics
+    description: "Model trung gian cực kỳ quan trọng: Tính toán các chỉ số hành vi theo mô hình RFM (Recency, Frequency, Monetary) trong khung thời gian 30 ngày lùi (rolling 30 days) tính từ ngày chốt dữ liệu. Phục vụ trực tiếp cho mô hình dự đoán Churn của team Data Science."
+    columns:
+      - name: cust_cd
+        description: "Mã khách hàng duy nhất (CIF)."
+        tests: 
+          - not_null
+      - name: data_dt
+        description: "Ngày chốt dữ liệu (Snapshot Date). Đóng vai trò là mốc thời gian để quét lùi 30 ngày."
+        tests: 
+          - not_null
+      - name: cif_age_days
+        description: "Tuổi CIF (Tenure) - Tính bằng số ngày từ khi khách hàng mở tài khoản (cif_open_dt) đến ngày chốt dữ liệu (data_dt)."
+      - name: total_logins_30d
+        description: "Chỉ số Recency/Engagement: Tổng số lần khách hàng đăng nhập thành công vào ứng dụng ngân hàng số trong 30 ngày gần nhất."
+      - name: total_txns_30d
+        description: "Chỉ số Frequency: Tổng số lượng giao dịch tài chính (cash-in/cash-out) phát sinh từ tài khoản thanh toán trong 30 ngày gần nhất."
+      - name: avg_casa_balance_mil
+        description: "Chỉ số Monetary: Số dư bình quân trên tài khoản thanh toán (CASA) trong kỳ đánh giá, được quy đổi thành đơn vị Triệu VNĐ."

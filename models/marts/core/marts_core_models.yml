@@ -1,0 +1,42 @@
+version: 2
+
+models:
+  - name: dim_customer
+    description: "Bảng Dimension lưu trữ thông tin nhân khẩu học (Demographics) mới nhất của khách hàng."
+    columns:
+      - name: cust_cd
+        description: "Mã khách hàng duy nhất (CIF)."
+        tests: 
+          - unique
+          - not_null
+      - name: gender
+        description: "Giới tính của khách hàng (M: Nam, F: Nữ)."
+      - name: datebirth
+        description: "Ngày tháng năm sinh."
+      - name: cif_open_dt
+        description: "Ngày khách hàng mở CIF (Ngày bắt đầu quan hệ với ngân hàng)."
+      - name: service_segment
+        description: "Phân khúc dịch vụ định danh của khách hàng."
+      - name: is_emp
+        description: "Cờ xác định khách hàng có phải là nhân viên ngân hàng không (Y/N)."
+      - name: province_residence
+        description: "Tỉnh/Thành phố cư trú hiện hành."
+      - name: domicile_country
+        description: "Quốc tịch / Quốc gia thường trú."
+
+  - name: dim_branch
+    description: "Bảng Dimension lưu trữ danh mục chi nhánh, phòng giao dịch trên toàn hệ thống."
+    columns:
+      - name: branch_nbr
+        description: "Mã chi nhánh / Mã PGD (Branch Code)."
+        tests: 
+          - unique
+          - not_null
+      - name: branch_nm
+        description: "Tên đầy đủ của chi nhánh hoặc phòng giao dịch."
+      - name: cluster_nm
+        description: "Tên Cụm chi nhánh quản lý."
+      - name: region_nm
+        description: "Tên Vùng kinh doanh quản lý (VD: VÙNG 1, VÙNG 2...)."
+      - name: province_nm
+        description: "Tỉnh/Thành phố nơi đặt chi nhánh."

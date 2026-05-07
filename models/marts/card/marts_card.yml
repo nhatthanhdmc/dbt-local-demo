@@ -1,0 +1,92 @@
+version: 2
+
+models:
+  - name: dim_card
+    description: "Bảng Dimension Thẻ (SCD Type 1) lưu trữ thông tin và phân khúc hạng thẻ mới nhất của thẻ, phục vụ thống kê danh mục thẻ."
+    columns:
+      - name: card_id_hktmo
+        description: "Định danh duy nhất của thẻ (Mã hash thẻ)."
+        tests:
+          - unique
+          - not_null
+      - name: client_number_hktmo
+        description: "Mã khách hàng (Client ID / CIF) sở hữu thẻ."
+        tests:
+          - not_null
+      - name: lvl_1
+        description: "Phân cấp sản phẩm thẻ cấp 1 - Phân loại thẻ Tín dụng (Credit) hay Ghi nợ (Debit)."
+        tests:
+          - accepted_values:
+              values: ['Credit', 'Debit']
+      - name: lvl_2
+        description: "Phân cấp sản phẩm thẻ cấp 2 - Tên dòng thẻ chi tiết trực tiếp từ hệ thống."
+      - name: lvl_3
+        description: "Phân cấp sản phẩm thẻ cấp 3 - Tổ chức chuyển mạch/Phát hành thẻ (VD: Visa, JCB, Napas...)."
+      - name: lvl_4
+        description: "Phân cấp sản phẩm thẻ cấp 4 - Đặc tính bổ sung của thẻ (VD: Priority, Privilege...)."
+      - name: card_segment
+        description: "Phân khúc hạng thẻ đã được chuẩn hóa để phục vụ báo cáo (VD: Visa Infinite, Visa Signature, Visa Gold...)."
+
+  - name: fact_card_monthly_summary
+    description: "Bảng Fact tổng hợp hành vi giao dịch thẻ hàng tháng, nhóm theo hạng thẻ và loại hình giao dịch (POS, ECOM, ATM...)."
+    tests:
+      - dbt_utils.expression_is_true:
+          expression: "sl_gd >= sl_the_psgd"
+    columns:
+      - name: lvl_1
+        description: "Loại hình thẻ (Credit/Debit)."
+      - name: card_segment
+        description: "Phân khúc hạng thẻ giao dịch."
+      - name: posting_month
+        description: "Tháng hạch toán giao dịch (Luôn là ngày mùng 1 của tháng)."
+        tests:
+          - not_null
+      - name: txn_typ
+        description: "Loại hình giao dịch phát sinh (VD: POS, ECOM, ATM, RETAIL)."
+      - name: sl_the_psgd
+        description: "Số lượng thẻ phát sinh giao dịch (Unique Card Count)."
+        tests:
+          - dbt_utils.expression_is_true:
+              expression: ">= 0"
+      - name: sl_gd
+        description: "Tổng số lượng chứng từ/giao dịch phát sinh trong tháng."
+      - name: tong_billing_amount
+        description: "Tổng giá trị giao dịch (Billing Amount) trong tháng."
+        tests:
+          - dbt_utils.expression_is_true:
+              expression: ">= 0"
+
+  - name: fact_card_merchant_monthly_summary
+    description: "Bảng Fact tổng hợp hành vi chi tiêu theo các đối tác bán hàng (Merchant) để phân tích thị hiếu mua sắm."
+    tests:
+      - dbt_utils.expression_is_true:
+          expression: "sl_gd >= sl_the_psgd"
+    columns:
+      - name: lvl_1
+        description: "Loại hình thẻ (Credit/Debit)."
+      - name: card_segment
+        description: "Phân khúc hạng thẻ giao dịch."
+      - name: merchant
+        description: "Tên đối tác bán hàng đã được chuẩn hóa (VD: SHOPEE, GRAB, XANH SM...)."
+        tests:
+          - not_null
+      - name: posting_month
+        description: "Tháng hạch toán giao dịch (Luôn là ngày mùng 1 của tháng)."
+      - name: sl_kh_psgd
+        description: "Số lượng khách hàng phát sinh giao dịch tại Merchant này (Unique CIF)."
+        tests:
+          - dbt_utils.expression_is_true:
+              expression: ">= 0"
+      - name: sl_the_psgd
+        description: "Số lượng thẻ phát sinh giao dịch (Unique Card Count)."
+        tests:
+          - dbt_utils.expression_is_true:
+              expression: ">= 0"
+      - name: sl_gd
+        description: "Tổng số lượng giao dịch tại Merchant."
+      - name: tong_billing_amount
+        description: "Tổng giá trị chi tiêu tại Merchant."
+        tests:
+          - not_null
+          - dbt_utils.expression_is_true:
+              expression: ">= 0"

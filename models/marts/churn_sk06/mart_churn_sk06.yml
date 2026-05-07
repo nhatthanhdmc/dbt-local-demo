@@ -1,0 +1,70 @@
+version: 2
+
+models:
+  - name: mart_customer_churn_snapshot
+    description: "Bảng OBT (One Big Table) phẳng, chứa toàn bộ thông tin định danh, RFM 30 ngày, Active Level và xác suất Churn. Phục vụ xuất thẳng lên Dashboard hoặc tool Marketing."
+    columns:
+      - name: data_dt
+        description: "Ngày chốt dữ liệu báo cáo (Snapshot date)."
+        tests:
+          - not_null
+      - name: cust_cd
+        description: "Mã khách hàng (CIF)."
+        tests:
+          - not_null
+      - name: service_segment
+        description: "Phân khúc dịch vụ của khách hàng (VIP, Mass, Priority...)."
+      - name: is_emp
+        description: "Cờ nhận diện khách hàng là nhân viên nội bộ (Y/N)."
+      - name: branch_nbr
+        description: "Mã chi nhánh quản lý khách hàng."
+      - name: branch_nm
+        description: "Tên chi nhánh quản lý."
+      - name: region_nm
+        description: "Tên Vùng quản lý chi nhánh."
+      - name: province_nm
+        description: "Tỉnh/Thành phố của chi nhánh."
+      - name: cif_age_days
+        description: "Tuổi CIF (Số ngày từ khi mở tài khoản đến ngày chốt dữ liệu)."
+      - name: total_logins_30d
+        description: "Tổng số lần khách hàng đăng nhập ứng dụng thành công trong 30 ngày gần nhất."
+      - name: total_txns_30d
+        description: "Tổng số lượng giao dịch tài chính (Cash-in/Cash-out) trong 30 ngày gần nhất."
+      - name: avg_casa_balance_mil
+        description: "Số dư bình quân tài khoản thanh toán (CASA) trong 30 ngày, đơn vị: Triệu VNĐ."
+      - name: new_active_level
+        description: "Phân loại mức độ Active (Hoạt động) theo bộ quy tắc mới dựa trên RFM."
+        tests:
+          - accepted_values:
+              values: ['VERY HIGH', 'HIGH', 'MEDIUM', 'LOW', 'INACTIVE']
+      - name: churn_probability
+        description: "Xác suất khách hàng sẽ rời bỏ dịch vụ (Từ 0 đến 1) do mô hình Data Science dự đoán."
+      - name: campaign_action_flag
+        description: "Cờ gợi ý hành động chiến dịch Marketing (VD: TARGET_RESCUE_LOW, UPSELL_MEDIUM...)."
+
+  - name: fct_customer_monthly_activity
+    description: "Bảng Fact lưu trữ lịch sử snapshot hàng tháng của khách hàng về chỉ số RFM và xếp hạng Active Level."
+    columns:
+      - name: data_dt
+        description: "Ngày chốt dữ liệu cuối tháng."
+        tests:
+          - not_null
+      - name: cust_cd
+        description: "Mã khách hàng."
+        tests:
+          - not_null
+      - name: branch_nbr
+        description: "Mã chi nhánh tại thời điểm chốt dữ liệu."
+      - name: cif_age_days
+        description: "Tuổi CIF tính bằng số ngày."
+      - name: total_logins_30d
+        description: "Tổng số lần login App trong 30 ngày (Recency)."
+      - name: total_txns_30d
+        description: "Tổng số lượng giao dịch tài chính trong 30 ngày (Frequency)."
+      - name: avg_casa_balance_mil
+        description: "Số dư CASA trung bình (Monetary) - Quy ra Triệu VNĐ."
+      - name: new_active_level
+        description: "Phân khúc Active theo định nghĩa RFM."
+        tests:
+          - accepted_values:
+              values: ['VERY HIGH', 'HIGH', 'MEDIUM', 'LOW', 'INACTIVE']

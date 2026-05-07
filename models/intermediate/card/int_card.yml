@@ -1,0 +1,68 @@
+version: 2
+
+models:
+  - name: int_card_segmentation
+    description: "Model trung gian thực hiện logic chuẩn hóa và phân loại hạng thẻ (Card Segmentation) dựa trên tổ hợp các trường cấp độ thẻ (lvl_1 đến lvl_4). Bảng này giúp chuẩn hóa tên các dòng thẻ phức tạp thành các phân khúc dễ hiểu cho báo cáo."
+    columns:
+      - name: card_id_hktmo
+        description: "Định danh duy nhất của một thẻ (Mã băm/Hash ID)."
+        tests:
+          - not_null
+          # Ở tầng này kiểm tra unique để đảm bảo logic phân loại không làm nhân dòng dữ liệu
+          - unique 
+      - name: client_number_hktmo
+        description: "Mã khách hàng (Client ID / CIF) sở hữu thẻ."
+      - name: lvl_1
+        description: "Phân cấp sản phẩm thẻ cấp 1 - Xác định bản chất Thẻ Tín dụng (Credit) hay Ghi nợ (Debit)."
+        tests:
+          - accepted_values:
+              values: ['Credit', 'Debit']
+      - name: lvl_2
+        description: "Phân cấp sản phẩm thẻ cấp 2 - Tên dòng thẻ chi tiết trực tiếp từ hệ thống Core (VD: Credit Signature, Debit Lotusmiles Virtual...)."
+      - name: lvl_3
+        description: "Phân cấp sản phẩm thẻ cấp 3 - Tổ chức chuyển mạch/Phát hành thẻ (VD: Visa, JCB)."
+      - name: lvl_4
+        description: "Phân cấp sản phẩm thẻ cấp 4 - Gắn nhãn đặc quyền bổ sung (VD: Privilege, UUTIEN)."
+      - name: from_date
+        description: "Ngày hệ thống ghi nhận bắt đầu hiệu lực của trạng thái thẻ này."
+      - name: card_segment
+        description: "Phân khúc hạng thẻ cuối cùng đã được Map theo logic Business (VD: Visa Infinite, Visa Platinum, JCB Gold...). Đây là trường chính để lên Dashboard."
+        tests:
+          - not_null
+          - accepted_values:
+              values: [
+                'Visa Infinite', 'Visa Privilege Signature', 'Visa Signature', 
+                'Visa Platinum', 'Visa Gold', 'JCB Gold', 'Visa Lotusmilepay', 
+                'Visa Privilege Platinum', 'Visa Debit', 'Others'
+              ]
+
+  - name: int_transaction_merchant
+    description: "Model lọc dữ liệu giao dịch thẻ và thực hiện logic phân loại đối tác bán hàng (Merchant) dựa trên việc quét chuỗi ký tự diễn giải giao dịch (trans_details) hoặc mã Merchant ID."
+    columns:
+      - name: card_id_hktmo
+        description: "Mã định danh thẻ thực hiện giao dịch."
+      - name: doc_id
+        description: "Mã chứng từ giao dịch duy nhất trên hệ thống."
+        tests:
+          - not_null
+          - unique
+      - name: posting_date
+        description: "Ngày hệ thống hạch toán giao dịch thẻ."
+        tests:
+          - not_null
+          - dbt_utils.expression_is_true:
+              expression: "<= current_date"
+      - name: billing_amount
+        description: "Giá trị thanh toán của giao dịch thẻ."
+        tests:
+          - not_null
+          - dbt_utils.expression_is_true:
+              expression: ">= 0"
+      - name: txn_typ
+        description: "Loại hình giao dịch thực hiện (VD: POS, ECOM, ATM)."
+      - name: mcc
+        description: "Mã danh mục nhà cung cấp (Merchant Category Code)."
+      - name: merchant
+        description: "Tên thương hiệu đối tác bán hàng đã được làm sạch và chuẩn hóa (VD: XANH SM, SHOPEE, CGV, HIGHLANDS...). Nếu không thuộc tập chuẩn hóa sẽ gán là 'OTHERS'."
+        tests:
+          - not_null

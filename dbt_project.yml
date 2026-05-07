@@ -15,12 +15,10 @@ clean-targets:
 
 # Configuring models
 models:
-  local_demo: # Tên project khai báo ở dòng 1
-    # Cấu hình cho thư mục card (theo hình của bạn)
-    card:
-      staging:
-        +materialized: view      # Staging nên là view để tiết kiệm bộ nhớ
-      intermediate:
-        +materialized: ephemeral # Hoặc view, tùy vào độ phức tạp của logic
-      marts:
-        +materialized: table     # Marts nên là table để BI tool load nhanh
+  local_demo:
+    staging:
+      +materialized: view
+    intermediate:
+      +materialized: ephemeral # hoặc view
+    marts:
+      +materialized: table

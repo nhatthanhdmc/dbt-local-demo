@@ -1,0 +1,251 @@
+version: 2
+
+sources:
+  - name: tmo
+    description: "Hệ thống New Data Platform WS01-SK19."
+    schema: main
+    tables:
+          # Khai báo identifier để dbt đọc data từ các file CSV 'mock_'
+          - name: stg_card_info
+            identifier: mock_stg_card_info
+          - name: stg_fin_transaction
+            identifier: mock_stg_fin_transaction
+          - name: stg_cust_demographics
+            identifier: mock_stg_cust_demographics
+          - name: stg_insider_combine_view_churn_model
+            identifier: mock_stg_insider_combine_view_churn_model
+          - name: stg_qlbh_chinhanh
+            identifier: mock_stg_qlbh_chinhanh
+          - name: stg_pj_clm_product
+            identifier: mock_stg_pj_clm_product
+          - name: stg_flat_transaction_churn_model
+            identifier: mock_stg_flat_transaction_churn_model
+          - name: stg_churn_predictions
+            identifier: mock_stg_churn_predictions
+
+models:
+  - name: stg_card_info
+    description: "Dữ liệu chuẩn hóa từ danh mục thẻ."
+    columns:
+      - name: card_id_hktmo
+        description: "Định danh duy nhất của một thẻ."
+        tests:
+          - unique
+          - not_null
+      - name: client_number_hktmo
+        description: "Định danh duy nhất của khách hàng (client id)."
+        tests:
+          - not_null
+      - name: lvl_1
+        description: "Phân cấp sản phẩm thẻ (level 1). Định danh bản chất Credit/Debit."
+        tests:
+          - accepted_values:
+              values: ['Credit', 'Debit'] # Đảm bảo dữ liệu không bị sai lệch loại hình tài chính      
+      - name: lvl_2
+        description: "Phân cấp sản phẩm thẻ (level 2)"      
+      - name: lvl_3
+        description: "Phân cấp sản phẩm thẻ (level 3)"      
+      - name: lvl_4
+        description: "Phân cấp sản phẩm thẻ (level 4)"
+      - name: from_date
+        description: "Ngày hiệu lực của bản ghi dữ liệu thẻ."
+        tests:
+          - not_null
+
+  - name: stg_fin_transaction
+    description: "Dữ liệu chuẩn hóa từ giao dịch tài chính."
+    columns:
+      - name: doc_id
+        description: "Mã chứng từ giao dịch."
+        tests:
+          - unique
+          - not_null
+      - name: card_id_hktmo
+        description: "Định danh duy nhất của 1 thẻ thực hiện giao dịch."
+        tests:
+          - not_null
+          - relationships: # Kiểm tra tính toàn vẹn: Mọi thẻ có GD phải tồn tại trong bảng Card Info
+              to: ref('stg_card_info')
+              field: card_id_hktmo
+      - name: billing_amount
+        description: "Số tiền giao dịch (giá trị thanh toán)."
+        tests:
+          - not_null
+          # Giả định: Số tiền giao dịch phải lớn hơn 0 (tránh dữ liệu lỗi hoặc rác)
+          - dbt_utils.expression_is_true:
+              expression: ">= 0"
+      - name: txn_typ
+        description: "Loại hình giao dịch (Retail, Cash Advance...)."
+        tests:
+          - accepted_values:
+              # Sửa 'RETAIL' thành 'Retail'
+              values: ['POS', 'ECOM', 'ATM', 'Retail']
+      - name: posting_date
+        description: "Ngày giao dịch được ghi nhận vào hệ thống."
+        tests:
+          - not_null
+          
+  - name: stg_cust_demographics
+    description: "Bảng thông tin nhân khẩu học của khách hàng, snapshot theo tháng."
+    columns:
+      - name: data_dt
+        description: "Ngày load dữ liệu (snapshot date)."
+        tests:
+          - not_null
+      - name: cust_cd
+        description: "Mã khách hàng duy nhất."
+        tests:
+          - not_null
+      - name: datebirth
+        description: "Ngày sinh của khách hàng."
+      - name: gender
+        description: "Giới tính."
+      - name: active_status
+        description: "Trạng thái active hiện tại trên hệ thống cũ."
+      - name: marital_status
+        description: "Tình trạng hôn nhân."
+      - name: education_level
+        description: "Cấp bậc học vấn."
+      - name: education_level_desc
+        description: "Mô tả cấp bậc học vấn."
+      - name: annual_income_range
+        description: "Khoảng thu nhập hàng năm."
+      - name: service_segment
+        description: "Phân khúc dịch vụ (Vd: N, VIP...)."
+      - name: profession_income
+        description: "Thu nhập từ nghề nghiệp."
+      - name: cif_open_dt
+        description: "Ngày mở mã CIF."
+      - name: branch_nbr
+        description: "Mã chi nhánh."
+      - name: branch_nm
+        description: "Tên chi nhánh."
+      - name: channel
+        description: "Kênh tiếp cận."
+      - name: dependencies
+        description: "Số người phụ thuộc."
+      - name: jobtitle
+        description: "Chức danh công việc."
+      - name: home_ownership_status
+        description: "Tình trạng sở hữu nhà ở."
+      - name: country_residence
+        description: "Quốc gia cư trú."
+      - name: domicile_country
+        description: "Quốc tịch."
+      - name: province_residence
+        description: "Tỉnh/Thành phố cư trú."
+      - name: district_residence
+        description: "Quận/Huyện cư trú."
+      - name: is_emp
+        description: "Cờ đánh dấu có phải là nhân viên nội bộ không (Y/N)."
+      - name: revenue
+        description: "Doanh thu mang lại."
+      - name: uuid
+        description: "Mã định danh thiết bị/ứng dụng để map với log sự kiện."
+
+  - name: stg_insider_combine_view_churn_model
+    description: "Bảng log lịch sử sự kiện của user trên ứng dụng ngân hàng số."
+    columns:
+      - name: uuid
+        description: "Mã định danh thiết bị/ứng dụng."
+        tests:
+          - not_null
+      - name: event_nm
+        description: "Tên sự kiện (VD: ins_login_fail, login_success)."
+      - name: event_tm
+        description: "Thời gian xảy ra sự kiện."
+      - name: e_c_ins_payment_option
+        description: "Tùy chọn thanh toán."
+      - name: data_dt
+        description: "Ngày chốt dữ liệu."
+
+  - name: stg_qlbh_chinhanh
+    description: "Bảng danh mục thông tin chi nhánh."
+    columns:
+      - name: branch_nbr
+        description: "Mã chi nhánh (Primary Key)."
+        tests:
+          - unique
+          - not_null
+      - name: branch_nm
+        description: "Tên chi nhánh."
+      - name: cluster_nm
+        description: "Tên cụm chi nhánh."
+      - name: region_nm
+        description: "Tên vùng quản lý."
+      - name: province_nm
+        description: "Tỉnh/Thành phố đặt chi nhánh."
+
+  - name: stg_pj_clm_product
+    description: "Bảng dữ liệu số dư sản phẩm theo tháng của khách hàng."
+    columns:
+      - name: cust_cd
+        description: "Mã khách hàng."
+        tests:
+          - not_null
+      - name: data_dt
+        description: "Ngày chốt số dư."
+        tests:
+          - not_null
+      - name: casa_bal
+        description: "Số dư tài khoản thanh toán (CASA)."
+      - name: term_deposit_bal
+        description: "Số dư tiền gửi có kỳ hạn."
+      - name: toi_amt
+        description: "Tổng thu nhập hoạt động (Total Operating Income) từ KH."
+
+  - name: stg_flat_transaction_churn_model
+    description: "Bảng dữ liệu log giao dịch chi tiết."
+    columns:
+      - name: acct_nbr
+        description: "Số tài khoản."
+      - name: rtxn_nbr
+        description: "Mã giao dịch duy nhất."
+      - name: post_dt
+        description: "Ngày hạch toán."
+      - name: created_at
+        description: "Thời gian tạo giao dịch."
+      - name: tran_amt
+        description: "Số tiền giao dịch (Âm là rút, Dương là nộp)."
+      - name: intrtxndesctext
+        description: "Nội dung diễn giải giao dịch."
+      - name: rtxnsourcecd
+        description: "Kênh phát sinh giao dịch (MAPP, ONLI...)."
+      - name: accttypcd
+        description: "Loại tài khoản."
+      - name: term_cd
+        description: "Mã kỳ hạn."
+      - name: branch_acct
+        description: "Mã chi nhánh mở tài khoản."
+      - name: cust_cd
+        description: "Mã khách hàng."
+      - name: cust_type
+        description: "Loại khách hàng (CN: Cá nhân, DN: Doanh nghiệp)."
+      - name: currencycd
+        description: "Loại tiền tệ (VND, USD...)."
+      - name: miaccttypcd
+        description: "Mã tiểu loại tài khoản."
+      - name: mjaccttypcd
+        description: "Mã đại loại tài khoản (SAV, CK...)."
+      - name: mjmidesc
+        description: "Mô tả loại tài khoản."
+      - name: branch_thgd
+        description: "Mã chi nhánh thực hiện giao dịch."
+      - name: is_cash
+        description: "Cờ đánh dấu giao dịch tiền mặt."
+      - name: data_dt
+        description: "Ngày chốt dữ liệu."
+
+  - name: stg_churn_predictions
+    description: "Bảng chứa kết quả dự đoán xác suất rời bỏ (churn) từ model của team Data Science."
+    columns:
+      - name: cust_cd
+        description: "Mã khách hàng."
+        tests:
+          - not_null
+      - name: churn_probability
+        description: "Xác suất rời bỏ (từ 0 đến 1)."
+      - name: data_dt
+        description: "Ngày chạy mô hình/dự đoán."
+        tests:
+          - not_null
